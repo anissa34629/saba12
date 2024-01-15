@@ -1,0 +1,1002 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    box-sizing: border-box;
+}
+
+/* Style the header */
+header {
+    background-color:#15bdf5;
+    color: white;
+    padding: 10px 0;
+    display: flex;
+    align-items: center;
+}
+
+.container{
+    padding: 10px 30%;
+    text-align: center;
+
+
+}
+.nav-container{
+    padding: 10px 10%;
+}
+.logo {
+   max-width: 100px;
+    height: auto;
+    display: inline;
+    float: left;
+    margin-left: 50px;
+    margin-top: 5px; 
+} 
+header h1 {
+    font-size: 36px;
+    text-align: right;
+    display: inline;
+    float: left;
+    margin-top: 20px;
+    margin-right: 30px;
+}
+
+header p {
+    font-size: 16px;
+    text-align: right;
+    
+}
+
+
+
+
+
+/* Style the navigation menu */
+nav {
+    background-color: #155b72;
+    text-align: left;
+}
+
+nav ul {
+    list-style: none;
+    padding: 20px 0;
+}
+
+nav li {
+    display: inline;
+    margin: 0 20px;
+}
+
+nav a {
+    color: white;
+    font-size: 19px;
+}
+
+/* Style the main content section */
+main {
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+
+
+
+
+.header-text h3{
+    font-size: 30px;
+    margin-top:20px ;
+}
+.header-text h3 span{
+    color: #ff004f;
+}
+
+
+
+
+
+
+
+#about{
+    padding: 0px 0;
+    color:black;
+    }
+    .row{
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+    .about-col-1{
+        flex-basis: 35%;
+    }
+    .about-col-1 img{
+        width: 100%;
+        height: 100vh;
+        border-radius: 15px;
+    }
+    .about-col-2{
+        flex-basis: 60%;
+        padding-top: 4%;
+    }
+    .about-col-2 h2{
+        padding-top: 25%;
+    }
+    .sub-title{
+        font-size: 60px;
+        font-weight: 600;
+        color:black;
+    }
+    
+    .tab-titles{
+        display: flex;
+        margin: 20px 0 40px;
+        }
+        .tab-links{
+            margin-right: 50px;
+            font-size: 18px;
+            font-weight: 500;
+            cursor: pointer;
+            position: relative;
+        }
+        .tab-links::after{
+            content: '';
+            width: 0;
+            height: 3px;
+            background: #ff004f;
+            position: absolute;
+            left: 0;
+            bottom: -8px;
+            transition: 0.5s;
+        }
+        .tab-links.active-link::after{
+            width: 100%;
+        }
+    #about-me{
+        padding-top: 8%
+    }
+    
+     .tab-contents ul li{
+        list-style: none;
+        margin: 10px 0;
+        
+     }
+     .tab-contents ul li span{
+        color: #ff004f;
+        font-size: 14px;
+     }
+    .tab-contents{
+        display: none;
+    }
+    .tab-contents.active-tab{
+        display: block;
+    }
+
+    
+
+    /* ----------------------------About Page------------------------------- */
+
+
+    #about-page{
+        padding: 0px 0;
+        color:black;
+        }
+        .row{
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+        }
+        .about-page-col-1{
+            flex-basis: 35%;
+        }
+        .about-page-col-1 img{
+            width: 100%;
+            height: 100vh;
+            border-radius: 15px;
+        }
+        .about-page-col-2{
+            flex-basis: 60%;
+            padding-top: 4%;
+        }
+        .sub-title{
+            font-size: 60px;
+            font-weight: 600;
+            color:black;
+        }
+        
+        .tab-titles{
+            display: flex;
+            margin: 20px 0 40px;
+            }
+            .tab-links{
+                margin-right: 50px;
+                font-size: 18px;
+                font-weight: 500;
+                cursor: pointer;
+                position: relative;
+            }
+            .tab-links::after{
+                content: '';
+                width: 0;
+                height: 3px;
+                background: #ff004f;
+                position: absolute;
+                left: 0;
+                bottom: -8px;
+                transition: 0.5s;
+            }
+            .tab-links.active-link::after{
+                width: 100%;
+            }
+        #about-page-me{
+            padding-top: 8%
+        }
+        
+         .tab-contents ul li{
+            list-style: none;
+            margin: 10px 0;
+            
+         }
+         .tab-contents ul li span{
+            color: #ff004f;
+            font-size: 14px;
+         }
+        .tab-contents{
+            display: none;
+        }
+        .tab-contents.active-tab{
+            display: block;
+        }
+
+        
+
+
+
+
+
+
+/* Style the footer */
+footer {
+    background-color: #155b72;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+/* Add this to your existing CSS */
+
+
+/* Responsive media query for tablets */
+@media (max-width: 768px) {
+    header {
+        padding: 20px 10px;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .container {
+        padding: 10px;
+    }
+
+    header h1 {
+        font-size: 24px;
+        text-align: center;
+        margin-top: 10px;
+        margin-right: 0;
+    }
+
+    header p {
+        font-size: 14px;
+        text-align: center;
+    }
+
+    nav ul {
+        padding: 10px 0;
+    }
+
+    nav li {
+        display: block;
+        margin: 10px 0;
+    }
+
+    nav a {
+        font-size: 16px;
+    }
+
+    .header-text h3 {
+        font-size: 24px;
+        margin-top: 20px;
+    }
+
+    .sub-title {
+        font-size: 40px;
+    }
+
+    .tab-links {
+        font-size: 16px;
+    }
+
+    .tab-contents ul li {
+        font-size: 14px;
+    }
+}
+
+/* Responsive media query for smaller screens */
+@media (max-width: 500px) {
+    .container {
+        padding: 5px;
+    }
+
+    header h1 {
+        font-size: 20px;
+        margin-top: 8px;
+        margin-right: 0;
+    }
+
+    header p {
+        font-size: 12px;
+    }
+
+    nav ul {
+        padding: 5px 0;
+    }
+
+    nav li {
+        margin: 5px 0;
+    }
+
+    nav a {
+        font-size: 14px;
+    }
+
+    .header-text h3 {
+        font-size: 20px;
+        margin-top: 15px;
+    }
+
+    .sub-title {
+        font-size: 36px;
+    }
+
+    .about-page-col-1 img {
+        height: 100%;
+        margin-left: 140px;
+        border-radius: 0;
+    }
+
+    .about-page-col-2 {
+        flex-basis: 100%;
+        margin-left: 100px;
+    }
+
+    .sub-title {
+        font-size: 32px;
+    }
+
+    /* Responsive styles for the footer */
+    footer {
+        padding: 10px 0;
+    }
+
+    .footer-container {
+        font-size: 14px;
+    }
+}
+
+
+
+/* Responsive media query for tablets */
+@media (max-width: 768px) {
+    header {
+        padding: 20px 10px;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .container {
+        padding: 10px;
+    }
+
+    header h1 {
+        font-size: 24px;
+        text-align: center;
+        margin-top: 10px;
+        margin-right: 0;
+    }
+
+    header p {
+        font-size: 14px;
+        text-align: center;
+    }
+
+    nav ul {
+        padding: 10px 0;
+    }
+
+    nav li {
+        display: block;
+        margin: 10px 0;
+    }
+
+    nav a {
+        font-size: 16px;
+    }
+
+    .header-text h3 {
+        font-size: 24px;
+        margin-top: 20px;
+    }
+
+    .sub-title {
+        font-size: 40px;
+    }
+
+    .tab-links {
+        font-size: 16px;
+    }
+
+    .tab-contents ul li {
+        font-size: 14px;
+    }
+}
+
+/* Responsive media query for smaller screens */
+@media (max-width: 500px) {
+    .container {
+        padding: 5px;
+    }
+
+    header h1 {
+        font-size: 20px;
+        margin-top: 8px;
+        margin-right: 0;
+    }
+
+    header p {
+        font-size: 12px;
+    }
+
+    nav ul {
+        padding: 5px 0;
+    }
+
+    nav li {
+        margin: 5px 0;
+    }
+
+    nav a {
+        font-size: 14px;
+    }
+
+    .header-text h3 {
+        font-size: 20px;
+        margin-top: 15px;
+    }
+
+    .sub-title {
+        font-size: 36px;
+    }
+
+    .about-col-1 img {
+        height: 100%;
+        margin-left: 100px;
+        border-radius: 0;
+    }
+
+    .about-col-2 {
+        flex-basis: 100%;
+        margin-left: 100px;
+    }
+
+    .sub-title {
+        font-size: 32px;
+    }
+
+    /* Responsive styles for the footer */
+    footer {
+        padding: 10px 0;
+    }
+
+    .footer-container {
+        font-size: 14px;
+    }
+}
+
+
+
+/* Reset some default styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+}
+
+/* Style the header */
+header {
+    background-color:#15bdf5;
+    color: white;
+    padding: 20px 0;
+    display: flex;
+    align-items: center;
+}
+
+header h1 {
+    font-size: 36px;
+    text-align: right;
+    display: inline;
+    float: left;
+    margin-top: 20px;
+    margin-right: 30px;
+}
+
+header p {
+    font-size: 16px;
+    text-align: right;
+   
+}
+
+/* Style the navigation menu */
+nav {
+    background-color: #155b72;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 20px 0;
+}
+
+nav li {
+    display: inline;
+    margin: 0 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+}
+
+
+/* Responsive media query for tablets */
+@media (max-width: 768px) {
+    header {
+        padding: 20px 10px;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .container {
+        padding: 10px;
+    }
+
+    header h1 {
+        font-size: 24px;
+        text-align: center;
+        margin-top: 10px;
+        margin-right: 0;
+    }
+
+    header p {
+        font-size: 14px;
+        text-align: center;
+    }
+
+    nav ul {
+        padding: 10px 0;
+    }
+
+    nav li {
+        display: block;
+        margin: 10px 0;
+    }
+
+    nav a {
+        font-size: 16px;
+    }
+
+    .header-text h3 {
+        font-size: 24px;
+        margin-top: 20px;
+    }
+
+    .sub-title {
+        font-size: 40px;
+    }
+
+    .tab-links {
+        font-size: 16px;
+    }
+
+    .tab-contents ul li {
+        font-size: 14px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* Professional section styling */
+/* services section styling */
+.services, .teams{
+    color:#000000;
+    background: #ffffff;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+.services .title {
+    text-align: center; /* Center-align the text */
+    padding-bottom: 2%;
+    margin-right: 40%;
+}
+.services .title::before,
+.teams .title::before{
+    background: #fff;
+}
+.services .title::after,
+
+
+.services .serv-content .card{
+    width: calc(33% - 20px);
+    box-sizing: border-box; /* Include padding and border in the element's total width and height */
+    background-color: #155b72;
+    text-align: center;
+    border-radius: 6px;
+    padding: 50px 25px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    display: inline-block; /* Display cards as inline blocks */
+    margin: 0 10px; /* Add some margin for spacing */
+    vertical-align: top; /* Align cards to the top of the container */
+}
+.services .serv-content .card:hover{
+    background: crimson;
+}
+.services .serv-content .card .box{
+    transition: all 0.3s ease;
+}
+.services .serv-content .card:hover .box{
+    transform: scale(1.05);
+}
+.services .serv-content .card i{
+    font-size: 50px;
+    color: crimson;
+    transition: color 0.3s ease;
+}
+.services .serv-content .card:hover i{
+    color: #fff;
+}
+.services .serv-content .card .text{
+    font-size: 25px;
+    font-weight: 500;
+    margin: 10px 0 7px 0;
+    color: #fff; /* Set the text color to white */
+
+}
+.services .serv-content .card p {
+    color: #fff; /* Set the text color to white */
+}
+.teams .card p {
+    color: #fff; /* Set the text color to white */
+}
+.teams .card .text {
+    color: #fff; /* Set the text color to white */
+}
+.services .serv-content .card {
+    width: calc(100% - 20px); /* Full width on small screens */
+    margin: 0 10px 20px; /* Adjust margin for spacing */
+}
+
+.services .title::before,
+.teams .title::before {
+    background: #fff;
+}
+
+/* Add more styles as needed */
+
+@media screen and (min-width: 768px) {
+    .services .title {
+        padding-bottom: 2%;
+    }
+
+    .services .serv-content .card {
+        width: calc(33% - 20px);
+    }
+}
+
+
+
+
+
+/* -------------------------skills section styling ---------------------------*/
+.skill-container {
+    margin-top: 30px;
+}
+
+/* Select dropdown styling */
+.task select {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-size: 16px;
+    color: #555;
+}
+
+.skills {
+    color: black;
+    background:white;
+    padding-top: 1%;
+    padding-bottom: 3%;
+}
+
+
+.skills h2{
+padding-left: 18%;
+font-size: 30px;
+padding-bottom:2% ;
+}
+
+.skills .max-width {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.skills .skills-content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.skills .column {
+    width: calc(50% - 30px);
+}
+
+.skills .column.left {
+    text-align: justify;
+}
+
+.skills .column.left .text {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.skills .column.left p {
+    text-align: justify;
+}
+
+.skills .column.left a {
+    display: inline-block;
+    background: crimson;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 8px 16px;
+    margin-top: 20px;
+    border-radius: 6px;
+    border: 2px solid crimson;
+    transition: all 0.3s ease;
+}
+
+.skills .column.left a:hover {
+    color: crimson;
+    background: none;
+}
+
+.skills .column.right {
+    display: flex;
+    flex-direction: column;
+}
+
+.skills .bars {
+    margin-bottom: 15px;
+}
+
+.skills .info {
+    display: flex;
+    margin-bottom: 5px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.skills .info span {
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.skills .line {
+    height: 5px;
+    width: 100%;
+    background: lightgrey;
+    position: relative;
+}
+
+.skills .line::before {
+    content: "";
+    position: absolute;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: crimson;
+}
+
+.skills .html::before {
+    width: 90%;
+}
+
+.skills .css::before {
+    width: 60%;
+}
+
+.skills .js::before {
+    width: 80%;
+}
+
+.skills .php::before {
+    width: 50%;
+}
+
+.skills .python::before {
+    width: 80%;
+}
+
+/* Add this to style the dropdown in the navigation menu */
+#projects-dropdown {
+    position: relative;
+    display: block; /* Change from inline-block to block */
+    margin: 0 auto; /* Add margin to center the block */
+    padding: 10px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+/* Style the dropdown arrow */
+#projects-dropdown::after {
+    content: '\25BC'; /* Unicode character for downward arrow */
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+}
+
+/* Style the dropdown options */
+#projects-dropdown select {
+    position: absolute;
+    top: 100%;
+    left: 50%; /* Center the dropdown relative to its parent */
+    transform: translateX(-50%); /* Center the dropdown relative to its parent */
+    width: 100%;
+    display: none;
+    border: 1px solid #ccc;
+    border-top: none;
+    border-radius: 0 0 5px 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#projects-dropdown:hover select {
+    display: block;
+}
+
+/* Style the dropdown option */
+#projects-dropdown option {
+    padding: 10px;
+    font-size: 16px;
+    background-color: #fff;
+    color: #333;
+    cursor: pointer;
+}
+
+/* Style the dropdown on hover */
+#projects-dropdown:hover {
+    border-color: #555;
+}
+
+
+/* Media queries for responsiveness */
+@media screen and (max-width: 768px) {
+    .skills .skills-content {
+        padding: 0 5%; /* Adjusted padding for responsiveness */
+    }
+    .skills .column.left {
+        padding-left: 0; /* Reset padding for responsiveness */
+        text-align: center; /* Center text for responsiveness */
+    }
+    .skills .column.left h2 {
+        padding-left: 0; /* Reset padding for responsiveness */
+    }
+    .skills .column.right {
+        margin-top: 20px; /* Add margin between columns for responsiveness */
+    }
+}
+
+
+
+
+
+
+/* teams section styling */
+.title{
+    margin-left: 45%;
+    padding-bottom: 2%;
+}
+.teams .carousel .card{
+    background-color: #155b72;
+    border-radius: 6px;
+    padding: 25px 35px;
+    text-align: center;
+    overflow: hidden;
+    transition: all 0.3s ease;
+}
+.teams .carousel .card:hover{
+    background: crimson;
+}
+.teams .carousel .card .box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+}
+.teams .carousel .card:hover .box{
+    transform: scale(1.05);
+}
+.teams .carousel .card .text{
+    font-size: 25px;
+    font-weight: 500;
+    margin: 10px 0 7px 0;
+}
+.teams .carousel .card img{
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 5px solid crimson;
+    transition: all 0.3s ease;
+}
+.teams .carousel .card:hover img{
+    border-color: #fff;
+}
+.owl-dots{
+    text-align: center;
+    margin-top: 20px;
+}
+.owl-dot{
+    height: 13px;
+    width: 13px;
+    margin: 0 5px;
+    outline: none!important;
+    border-radius: 50%;
+    border: 2px solid crimson!important;
+    transition: all 0.3s ease;
+}
+.owl-dot.active{
+    width: 35px;
+    border-radius: 14px;
+}
+.owl-dot.active,
+.owl-dot:hover{
+    background: crimson!important;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* ---------------------contact form-------------------------- */

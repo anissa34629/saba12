@@ -1,0 +1,256 @@
+[
+  {
+    "date": "1996-01-01",
+    "costs": {
+      "Solid Fuels (D7DW)": 123.45,
+      "Gas (D7DU)": 234.56,
+      "Electricity (D7DT)": 345.67,
+      "Liquid Fuels (D7DV)": 456.78
+    }
+  },
+  {
+    "date": "1997-01-01",
+    "costs": {
+      "Solid Fuels (D7DW)": 567.89,
+      "Gas (D7DU)": 678.90,
+      "Electricity (D7DT)": 789.01,
+      "Liquid Fuels (D7DV)": 890.12
+    }
+  },
+  {
+    "date": "1998-01-01",
+    "costs": {
+      "Solid Fuels (D7DW)": 345.67,
+      "Gas (D7DU)": 456.78,
+      "Electricity (D7DT)": 567.89,
+      "Liquid Fuels (D7DV)": 678.90
+    }
+  },
+  {
+    "date": "1999-01-01",
+    "costs": {
+      "Solid Fuels (D7DW)": 789.01,
+      "Gas (D7DU)": 890.12,
+      "Electricity (D7DT)": 901.23,
+      "Liquid Fuels (D7DV)": 123.45
+    }
+  },
+  {
+    "date": "2000-01-01",
+    "costs": {
+      "Solid Fuels (D7DW)": 234.56,
+      "Gas (D7DU)": 345.67,
+      "Electricity (D7DT)": 456.78,
+      "Liquid Fuels (D7DV)": 567.89
+    }
+  },
+  {
+    "date": "2001-01-01",
+    "costs": {
+      "Solid Fuels (D7DW)": 678.90,
+      "Gas (D7DU)": 789.01,
+      "Electricity (D7DT)": 890.12,
+      "Liquid Fuels (D7DV)": 901.23
+    }
+  },
+ 
+    {
+      "date": "2002-01-01",
+      "costs": {
+        "Solid Fuels (D7DW)": 345.67,
+        "Gas (D7DU)": 456.78,
+        "Electricity (D7DT)": 567.89,
+        "Liquid Fuels (D7DV)": 678.90
+      }
+    },
+    {
+      "date": "2003-01-01",
+      "costs": {
+        "Solid Fuels (D7DW)": 789.01,
+        "Gas (D7DU)": 890.12,
+        "Electricity (D7DT)": 901.23,
+        "Liquid Fuels (D7DV)": 123.45
+      }
+    },
+    {
+      "date": "2004-01-01",
+      "costs": {
+        "Solid Fuels (D7DW)": 234.56,
+        "Gas (D7DU)": 345.67,
+        "Electricity (D7DT)": 456.78,
+        "Liquid Fuels (D7DV)": 567.89
+      }
+    },
+    {
+      "date": "2005-01-01",
+      "costs": {
+        "Solid Fuels (D7DW)": 678.90,
+        "Gas (D7DU)": 789.01,
+        "Electricity (D7DT)": 890.12,
+        "Liquid Fuels (D7DV)": 901.23
+      }
+    },
+    {
+      "date": "2006-01-01",
+      "costs": {
+        "Solid Fuels (D7DW)": 345.67,
+        "Gas (D7DU)": 456.78,
+        "Electricity (D7DT)": 567.89,
+        "Liquid Fuels (D7DV)": 678.90
+      }
+    },
+    {
+      "date": "2007-01-01",
+      "costs": {
+        "Solid Fuels (D7DW)": 789.01,
+        "Gas (D7DU)": 890.12,
+        "Electricity (D7DT)": 901.23,
+        "Liquid Fuels (D7DV)": 123.45
+      }
+    },
+       
+      {
+        "date": "2008-01-01",
+        "costs": {
+          "Solid Fuels (D7DW)": 234.56,
+          "Gas (D7DU)": 345.67,
+          "Electricity (D7DT)": 456.78,
+          "Liquid Fuels (D7DV)": 567.89
+        }
+      },
+      {
+        "date": "2009-01-01",
+        "costs": {
+          "Solid Fuels (D7DW)": 678.90,
+          "Gas (D7DU)": 789.01,
+          "Electricity (D7DT)": 890.12,
+          "Liquid Fuels (D7DV)": 901.23
+        }
+      },
+      {
+        "date": "2010-01-01",
+        "costs": {
+          "Solid Fuels (D7DW)": 345.67,
+          "Gas (D7DU)": 456.78,
+          "Electricity (D7DT)": 567.89,
+          "Liquid Fuels (D7DV)": 678.90
+        }
+      },
+      {
+        "date": "2011-01-01",
+        "costs": {
+          "Solid Fuels (D7DW)": 789.01,
+          "Gas (D7DU)": 890.12,
+          "Electricity (D7DT)": 901.23,
+          "Liquid Fuels (D7DV)": 123.45
+        }
+      },
+      {
+        "date": "2012-01-01",
+        "costs": {
+          "Solid Fuels (D7DW)": 234.56,
+          "Gas (D7DU)": 345.67,
+          "Electricity (D7DT)": 456.78,
+          "Liquid Fuels (D7DV)": 567.89
+        }
+      },
+      {
+        "date": "2013-01-01",
+        "costs": {
+          "Solid Fuels (D7DW)": 678.90,
+          "Gas (D7DU)": 789.01,
+          "Electricity (D7DT)": 890.12,
+          "Liquid Fuels (D7DV)": 901.23
+        }
+      },
+        {
+          "date": "2014-01-01",
+          "costs": {
+            "Solid Fuels (D7DW)": 345.67,
+            "Gas (D7DU)": 456.78,
+            "Electricity (D7DT)": 567.89,
+            "Liquid Fuels (D7DV)": 678.90
+          }
+        },
+        {
+          "date": "2015-01-01",
+          "costs": {
+            "Solid Fuels (D7DW)": 789.01,
+            "Gas (D7DU)": 890.12,
+            "Electricity (D7DT)": 901.23,
+            "Liquid Fuels (D7DV)": 123.45
+          }
+        },
+        {
+          "date": "2016-01-01",
+          "costs": {
+            "Solid Fuels (D7DW)": 234.56,
+            "Gas (D7DU)": 345.67,
+            "Electricity (D7DT)": 456.78,
+            "Liquid Fuels (D7DV)": 567.89
+          }
+        },
+        {
+          "date": "2017-01-01",
+          "costs": {
+            "Solid Fuels (D7DW)": 678.90,
+            "Gas (D7DU)": 789.01,
+            "Electricity (D7DT)": 890.12,
+            "Liquid Fuels (D7DV)": 901.23
+          }
+        },
+        {
+          "date": "2018-01-01",
+          "costs": {
+            "Solid Fuels (D7DW)": 345.67,
+            "Gas (D7DU)": 456.78,
+            "Electricity (D7DT)": 567.89,
+            "Liquid Fuels (D7DV)": 678.90
+          }
+        },
+        {
+          "date": "2019-01-01",
+          "costs": {
+            "Solid Fuels (D7DW)": 789.01,
+            "Gas (D7DU)": 890.12,
+            "Electricity (D7DT)": 901.23,
+            "Liquid Fuels (D7DV)": 123.45
+          }
+        },
+          {
+            "date": "2020-01-01",
+            "costs": {
+              "Solid Fuels (D7DW)": 234.56,
+              "Gas (D7DU)": 345.67,
+              "Electricity (D7DT)": 456.78,
+              "Liquid Fuels (D7DV)": 567.89
+            }
+          },
+          {
+            "date": "2021-01-01",
+            "costs": {
+              "Solid Fuels (D7DW)": 678.90,
+              "Gas (D7DU)": 789.01,
+              "Electricity (D7DT)": 890.12,
+              "Liquid Fuels (D7DV)": 901.23
+            }
+          },
+          {
+            "date": "2022-01-01",
+            "costs": {
+              "Solid Fuels (D7DW)": 345.67,
+              "Gas (D7DU)": 456.78,
+              "Electricity (D7DT)": 567.89,
+              "Liquid Fuels (D7DV)": 678.90
+            }
+          },
+          {
+            "date": "2023-01-01",
+            "costs": {
+              "Solid Fuels (D7DW)": 789.01,
+              "Gas (D7DU)": 890.12,
+              "Electricity (D7DT)": 901.23,
+              "Liquid Fuels (D7DV)": 123.45
+            }
+          }
+        ]

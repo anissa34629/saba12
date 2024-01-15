@@ -1,0 +1,2562 @@
+[
+ {
+  "Year and dataset code row": 1996,
+  "Month": "January",
+  "Current price indices: Solid fuels": 45.402951191827476,
+  "Current price indices: Gas ": 43.27176781002638,
+  "Current price indices: Electricity ": 62.483994878361074,
+  "Current price indices: Liquid fuels": 33.19705641864268
+ },
+ {
+  "Year and dataset code row": 1996,
+  "Month": "February",
+  "Current price indices: Solid fuels": 45.402951191827476,
+  "Current price indices: Gas ": 43.27176781002638,
+  "Current price indices: Electricity ": 62.483994878361074,
+  "Current price indices: Liquid fuels": 32.86999182338512
+ },
+ {
+  "Year and dataset code row": 1996,
+  "Month": "March",
+  "Current price indices: Solid fuels": 45.402951191827476,
+  "Current price indices: Gas ": 43.27176781002638,
+  "Current price indices: Electricity ": 62.483994878361074,
+  "Current price indices: Liquid fuels": 33.85118560915781
+ },
+ {
+  "Year and dataset code row": 1996,
+  "Month": "April",
+  "Current price indices: Solid fuels": 45.402951191827476,
+  "Current price indices: Gas ": 43.27176781002638,
+  "Current price indices: Electricity ": 62.483994878361074,
+  "Current price indices: Liquid fuels": 34.91414554374489
+ },
+ {
+  "Year and dataset code row": 1996,
+  "Month": "May",
+  "Current price indices: Solid fuels": 44.04086265607264,
+  "Current price indices: Gas ": 43.27176781002638,
+  "Current price indices: Electricity ": 62.61203585147247,
+  "Current price indices: Liquid fuels": 32.78822567457073
+ },
+ {
+  "Year and dataset code row": 1996,
+  "Month": "June",
+  "Current price indices: Solid fuels": 43.813847900113515,
+  "Current price indices: Gas ": 43.27176781002638,
+  "Current price indices: Electricity ": 62.86811779769527,
+  "Current price indices: Liquid fuels": 32.134096484055604
+ },
+ {
+  "Year and dataset code row": 1996,
+  "Month": "July",
+  "Current price indices: Solid fuels": 43.92735527809308,
+  "Current price indices: Gas ": 43.27176781002638,
+  "Current price indices: Electricity ": 62.996158770806666,
+  "Current price indices: Liquid fuels": 32.62469337694194
+ },
+ {
+  "Year and dataset code row": 1996,
+  "Month": "August",
+  "Current price indices: Solid fuels": 43.92735527809308,
+  "Current price indices: Gas ": 43.27176781002638,
+  "Current price indices: Electricity ": 62.740076824583866,
+  "Current price indices: Liquid fuels": 32.86999182338512
+ },
+ {
+  "Year and dataset code row": 1996,
+  "Month": "September",
+  "Current price indices: Solid fuels": 44.835414301929625,
+  "Current price indices: Gas ": 43.27176781002638,
+  "Current price indices: Electricity ": 62.355953905249685,
+  "Current price indices: Liquid fuels": 37.448896156991005
+ },
+ {
+  "Year and dataset code row": 1996,
+  "Month": "October",
+  "Current price indices: Solid fuels": 45.743473325766175,
+  "Current price indices: Gas ": 43.27176781002638,
+  "Current price indices: Electricity ": 61.71574903969271,
+  "Current price indices: Liquid fuels": 40.71954210956664
+ },
+ {
+  "Year and dataset code row": 1996,
+  "Month": "November",
+  "Current price indices: Solid fuels": 46.08399545970489,
+  "Current price indices: Gas ": 43.27176781002638,
+  "Current price indices: Electricity ": 61.33162612035852,
+  "Current price indices: Liquid fuels": 36.549468520032704
+ },
+ {
+  "Year and dataset code row": 1996,
+  "Month": "December",
+  "Current price indices: Solid fuels": 46.08399545970489,
+  "Current price indices: Gas ": 43.27176781002638,
+  "Current price indices: Electricity ": 61.07554417413573,
+  "Current price indices: Liquid fuels": 38.348323793949305
+ },
+ {
+  "Year and dataset code row": 1997,
+  "Month": "January",
+  "Current price indices: Solid fuels": 46.19750283768445,
+  "Current price indices: Gas ": 43.27176781002638,
+  "Current price indices: Electricity ": 60.43533930857875,
+  "Current price indices: Liquid fuels": 38.51185609157809
+ },
+ {
+  "Year and dataset code row": 1997,
+  "Month": "February",
+  "Current price indices: Solid fuels": 46.19750283768445,
+  "Current price indices: Gas ": 43.27176781002638,
+  "Current price indices: Electricity ": 60.69142125480154,
+  "Current price indices: Liquid fuels": 36.05887162714637
+ },
+ {
+  "Year and dataset code row": 1997,
+  "Month": "March",
+  "Current price indices: Solid fuels": 46.08399545970489,
+  "Current price indices: Gas ": 43.27176781002638,
+  "Current price indices: Electricity ": 60.94750320102433,
+  "Current price indices: Liquid fuels": 32.95175797219951
+ },
+ {
+  "Year and dataset code row": 1997,
+  "Month": "April",
+  "Current price indices: Solid fuels": 45.970488081725314,
+  "Current price indices: Gas ": 43.13984168865436,
+  "Current price indices: Electricity ": 60.819462227912936,
+  "Current price indices: Liquid fuels": 31.316434995911692
+ },
+ {
+  "Year and dataset code row": 1997,
+  "Month": "May",
+  "Current price indices: Solid fuels": 44.72190692395006,
+  "Current price indices: Gas ": 43.13984168865436,
+  "Current price indices: Electricity ": 60.43533930857875,
+  "Current price indices: Liquid fuels": 31.398201144726084
+ },
+ {
+  "Year and dataset code row": 1997,
+  "Month": "June",
+  "Current price indices: Solid fuels": 44.494892167990926,
+  "Current price indices: Gas ": 43.13984168865436,
+  "Current price indices: Electricity ": 60.051216389244566,
+  "Current price indices: Liquid fuels": 30.58053965658217
+ },
+ {
+  "Year and dataset code row": 1997,
+  "Month": "July",
+  "Current price indices: Solid fuels": 44.60839954597049,
+  "Current price indices: Gas ": 43.13984168865436,
+  "Current price indices: Electricity ": 59.667093469910384,
+  "Current price indices: Liquid fuels": 29.27228127555192
+ },
+ {
+  "Year and dataset code row": 1997,
+  "Month": "August",
+  "Current price indices: Solid fuels": 44.38138479001136,
+  "Current price indices: Gas ": 43.13984168865436,
+  "Current price indices: Electricity ": 59.53905249679898,
+  "Current price indices: Liquid fuels": 30.498773507767783
+ },
+ {
+  "Year and dataset code row": 1997,
+  "Month": "September",
+  "Current price indices: Solid fuels": 44.26787741203179,
+  "Current price indices: Gas ": 42.0844327176781,
+  "Current price indices: Electricity ": 57.74647887323944,
+  "Current price indices: Liquid fuels": 29.844644317252655
+ },
+ {
+  "Year and dataset code row": 1997,
+  "Month": "October",
+  "Current price indices: Solid fuels": 45.85698070374574,
+  "Current price indices: Gas ": 42.0844327176781,
+  "Current price indices: Electricity ": 57.61843790012805,
+  "Current price indices: Liquid fuels": 31.316434995911692
+ },
+ {
+  "Year and dataset code row": 1997,
+  "Month": "November",
+  "Current price indices: Solid fuels": 45.85698070374574,
+  "Current price indices: Gas ": 42.0844327176781,
+  "Current price indices: Electricity ": 57.106274007682465,
+  "Current price indices: Liquid fuels": 31.234668847097304
+ },
+ {
+  "Year and dataset code row": 1997,
+  "Month": "December",
+  "Current price indices: Solid fuels": 45.85698070374574,
+  "Current price indices: Gas ": 42.0844327176781,
+  "Current price indices: Electricity ": 56.72215108834827,
+  "Current price indices: Liquid fuels": 30.253475061324615
+ },
+ {
+  "Year and dataset code row": 1998,
+  "Month": "January",
+  "Current price indices: Solid fuels": 45.85698070374574,
+  "Current price indices: Gas ": 41.556728232189975,
+  "Current price indices: Electricity ": 56.59411011523689,
+  "Current price indices: Liquid fuels": 28.12755519215045
+ },
+ {
+  "Year and dataset code row": 1998,
+  "Month": "February",
+  "Current price indices: Solid fuels": 45.85698070374574,
+  "Current price indices: Gas ": 41.556728232189975,
+  "Current price indices: Electricity ": 57.106274007682465,
+  "Current price indices: Liquid fuels": 26.573998364677028
+ },
+ {
+  "Year and dataset code row": 1998,
+  "Month": "March",
+  "Current price indices: Solid fuels": 45.85698070374574,
+  "Current price indices: Gas ": 41.42480211081794,
+  "Current price indices: Electricity ": 57.61843790012805,
+  "Current price indices: Liquid fuels": 25.020441537203595
+ },
+ {
+  "Year and dataset code row": 1998,
+  "Month": "April",
+  "Current price indices: Solid fuels": 45.85698070374574,
+  "Current price indices: Gas ": 41.42480211081794,
+  "Current price indices: Electricity ": 57.61843790012805,
+  "Current price indices: Liquid fuels": 25.18397383483238
+ },
+ {
+  "Year and dataset code row": 1998,
+  "Month": "May",
+  "Current price indices: Solid fuels": 44.835414301929625,
+  "Current price indices: Gas ": 41.42480211081794,
+  "Current price indices: Electricity ": 56.97823303457107,
+  "Current price indices: Liquid fuels": 25.347506132461163
+ },
+ {
+  "Year and dataset code row": 1998,
+  "Month": "June",
+  "Current price indices: Solid fuels": 44.9489216799092,
+  "Current price indices: Gas ": 41.29287598944592,
+  "Current price indices: Electricity ": 56.466069142125484,
+  "Current price indices: Liquid fuels": 24.529844644317254
+ },
+ {
+  "Year and dataset code row": 1998,
+  "Month": "July",
+  "Current price indices: Solid fuels": 45.06242905788877,
+  "Current price indices: Gas ": 41.42480211081794,
+  "Current price indices: Electricity ": 56.08194622279129,
+  "Current price indices: Liquid fuels": 23.712183156173346
+ },
+ {
+  "Year and dataset code row": 1998,
+  "Month": "August",
+  "Current price indices: Solid fuels": 45.06242905788877,
+  "Current price indices: Gas ": 41.42480211081794,
+  "Current price indices: Electricity ": 56.08194622279129,
+  "Current price indices: Liquid fuels": 23.221586263286998
+ },
+ {
+  "Year and dataset code row": 1998,
+  "Month": "September",
+  "Current price indices: Solid fuels": 45.402951191827476,
+  "Current price indices: Gas ": 41.42480211081794,
+  "Current price indices: Electricity ": 56.08194622279129,
+  "Current price indices: Liquid fuels": 24.039247751430906
+ },
+ {
+  "Year and dataset code row": 1998,
+  "Month": "October",
+  "Current price indices: Solid fuels": 46.878547105561864,
+  "Current price indices: Gas ": 41.42480211081794,
+  "Current price indices: Electricity ": 56.08194622279129,
+  "Current price indices: Liquid fuels": 24.856909239574815
+ },
+ {
+  "Year and dataset code row": 1998,
+  "Month": "November",
+  "Current price indices: Solid fuels": 46.99205448354143,
+  "Current price indices: Gas ": 41.42480211081794,
+  "Current price indices: Electricity ": 56.08194622279129,
+  "Current price indices: Liquid fuels": 23.957481602616518
+ },
+ {
+  "Year and dataset code row": 1998,
+  "Month": "December",
+  "Current price indices: Solid fuels": 46.99205448354143,
+  "Current price indices: Gas ": 41.42480211081794,
+  "Current price indices: Electricity ": 56.08194622279129,
+  "Current price indices: Liquid fuels": 22.3221586263287
+ },
+ {
+  "Year and dataset code row": 1999,
+  "Month": "January",
+  "Current price indices: Solid fuels": 46.99205448354143,
+  "Current price indices: Gas ": 41.556728232189975,
+  "Current price indices: Electricity ": 56.08194622279129,
+  "Current price indices: Liquid fuels": 22.48569092395748
+ },
+ {
+  "Year and dataset code row": 1999,
+  "Month": "February",
+  "Current price indices: Solid fuels": 46.99205448354143,
+  "Current price indices: Gas ": 41.556728232189975,
+  "Current price indices: Electricity ": 56.08194622279129,
+  "Current price indices: Liquid fuels": 22.24039247751431
+ },
+ {
+  "Year and dataset code row": 1999,
+  "Month": "March",
+  "Current price indices: Solid fuels": 46.99205448354143,
+  "Current price indices: Gas ": 41.68865435356201,
+  "Current price indices: Electricity ": 56.08194622279129,
+  "Current price indices: Liquid fuels": 23.30335241210139
+ },
+ {
+  "Year and dataset code row": 1999,
+  "Month": "April",
+  "Current price indices: Solid fuels": 47.105561861521004,
+  "Current price indices: Gas ": 41.29287598944592,
+  "Current price indices: Electricity ": 56.08194622279129,
+  "Current price indices: Liquid fuels": 25.756336876533116
+ },
+ {
+  "Year and dataset code row": 1999,
+  "Month": "May",
+  "Current price indices: Solid fuels": 45.970488081725314,
+  "Current price indices: Gas ": 41.29287598944592,
+  "Current price indices: Electricity ": 55.953905249679906,
+  "Current price indices: Liquid fuels": 25.511038430089943
+ },
+ {
+  "Year and dataset code row": 1999,
+  "Month": "June",
+  "Current price indices: Solid fuels": 45.85698070374574,
+  "Current price indices: Gas ": 41.29287598944592,
+  "Current price indices: Electricity ": 55.953905249679906,
+  "Current price indices: Liquid fuels": 25.511038430089943
+ },
+ {
+  "Year and dataset code row": 1999,
+  "Month": "July",
+  "Current price indices: Solid fuels": 45.85698070374574,
+  "Current price indices: Gas ": 41.29287598944592,
+  "Current price indices: Electricity ": 55.8258642765685,
+  "Current price indices: Liquid fuels": 28.781684382665578
+ },
+ {
+  "Year and dataset code row": 1999,
+  "Month": "August",
+  "Current price indices: Solid fuels": 45.85698070374574,
+  "Current price indices: Gas ": 41.29287598944592,
+  "Current price indices: Electricity ": 55.8258642765685,
+  "Current price indices: Liquid fuels": 29.354047424366314
+ },
+ {
+  "Year and dataset code row": 1999,
+  "Month": "September",
+  "Current price indices: Solid fuels": 46.31101021566402,
+  "Current price indices: Gas ": 41.29287598944592,
+  "Current price indices: Electricity ": 55.8258642765685,
+  "Current price indices: Liquid fuels": 31.398201144726084
+ },
+ {
+  "Year and dataset code row": 1999,
+  "Month": "October",
+  "Current price indices: Solid fuels": 47.4460839954597,
+  "Current price indices: Gas ": 41.29287598944592,
+  "Current price indices: Electricity ": 55.8258642765685,
+  "Current price indices: Liquid fuels": 31.398201144726084
+ },
+ {
+  "Year and dataset code row": 1999,
+  "Month": "November",
+  "Current price indices: Solid fuels": 47.559591373439275,
+  "Current price indices: Gas ": 41.29287598944592,
+  "Current price indices: Electricity ": 55.8258642765685,
+  "Current price indices: Liquid fuels": 33.19705641864268
+ },
+ {
+  "Year and dataset code row": 1999,
+  "Month": "December",
+  "Current price indices: Solid fuels": 47.67309875141885,
+  "Current price indices: Gas ": 41.29287598944592,
+  "Current price indices: Electricity ": 55.8258642765685,
+  "Current price indices: Liquid fuels": 38.10302534750613
+ },
+ {
+  "Year and dataset code row": 2000,
+  "Month": "January",
+  "Current price indices: Solid fuels": 47.786606129398415,
+  "Current price indices: Gas ": 41.29287598944592,
+  "Current price indices: Electricity ": 55.8258642765685,
+  "Current price indices: Liquid fuels": 37.28536385936223
+ },
+ {
+  "Year and dataset code row": 2000,
+  "Month": "February",
+  "Current price indices: Solid fuels": 47.67309875141885,
+  "Current price indices: Gas ": 41.29287598944592,
+  "Current price indices: Electricity ": 55.8258642765685,
+  "Current price indices: Liquid fuels": 37.53066230580539
+ },
+ {
+  "Year and dataset code row": 2000,
+  "Month": "March",
+  "Current price indices: Solid fuels": 47.786606129398415,
+  "Current price indices: Gas ": 41.29287598944592,
+  "Current price indices: Electricity ": 55.697823303457106,
+  "Current price indices: Liquid fuels": 38.75715453802126
+ },
+ {
+  "Year and dataset code row": 2000,
+  "Month": "April",
+  "Current price indices: Solid fuels": 47.67309875141885,
+  "Current price indices: Gas ": 40.23746701846966,
+  "Current price indices: Electricity ": 55.56978233034572,
+  "Current price indices: Liquid fuels": 37.69419460343418
+ },
+ {
+  "Year and dataset code row": 2000,
+  "Month": "May",
+  "Current price indices: Solid fuels": 46.53802497162316,
+  "Current price indices: Gas ": 40.23746701846966,
+  "Current price indices: Electricity ": 55.05761843790013,
+  "Current price indices: Liquid fuels": 36.794766966475876
+ },
+ {
+  "Year and dataset code row": 2000,
+  "Month": "June",
+  "Current price indices: Solid fuels": 46.19750283768445,
+  "Current price indices: Gas ": 40.23746701846966,
+  "Current price indices: Electricity ": 54.545454545454554,
+  "Current price indices: Liquid fuels": 37.85772690106296
+ },
+ {
+  "Year and dataset code row": 2000,
+  "Month": "July",
+  "Current price indices: Solid fuels": 46.08399545970489,
+  "Current price indices: Gas ": 40.23746701846966,
+  "Current price indices: Electricity ": 54.16133162612036,
+  "Current price indices: Liquid fuels": 40.88307440719542
+ },
+ {
+  "Year and dataset code row": 2000,
+  "Month": "August",
+  "Current price indices: Solid fuels": 46.19750283768445,
+  "Current price indices: Gas ": 40.23746701846966,
+  "Current price indices: Electricity ": 54.16133162612036,
+  "Current price indices: Liquid fuels": 41.21013900245298
+ },
+ {
+  "Year and dataset code row": 2000,
+  "Month": "September",
+  "Current price indices: Solid fuels": 47.105561861521004,
+  "Current price indices: Gas ": 40.23746701846966,
+  "Current price indices: Electricity ": 54.16133162612036,
+  "Current price indices: Liquid fuels": 52.16680294358136
+ },
+ {
+  "Year and dataset code row": 2000,
+  "Month": "October",
+  "Current price indices: Solid fuels": 48.58115777525539,
+  "Current price indices: Gas ": 40.36939313984169,
+  "Current price indices: Electricity ": 54.16133162612036,
+  "Current price indices: Liquid fuels": 55.192150449713814
+ },
+ {
+  "Year and dataset code row": 2000,
+  "Month": "November",
+  "Current price indices: Solid fuels": 49.03518728717367,
+  "Current price indices: Gas ": 40.36939313984169,
+  "Current price indices: Electricity ": 54.16133162612036,
+  "Current price indices: Liquid fuels": 51.43090760425184
+ },
+ {
+  "Year and dataset code row": 2000,
+  "Month": "December",
+  "Current price indices: Solid fuels": 49.148694665153236,
+  "Current price indices: Gas ": 40.36939313984169,
+  "Current price indices: Electricity ": 54.16133162612036,
+  "Current price indices: Liquid fuels": 48.81439084219134
+ },
+ {
+  "Year and dataset code row": 2001,
+  "Month": "January",
+  "Current price indices: Solid fuels": 49.26220204313281,
+  "Current price indices: Gas ": 40.36939313984169,
+  "Current price indices: Electricity ": 54.16133162612036,
+  "Current price indices: Liquid fuels": 42.354865085854456
+ },
+ {
+  "Year and dataset code row": 2001,
+  "Month": "February",
+  "Current price indices: Solid fuels": 49.148694665153236,
+  "Current price indices: Gas ": 40.50131926121372,
+  "Current price indices: Electricity ": 54.16133162612036,
+  "Current price indices: Liquid fuels": 43.008994276369584
+ },
+ {
+  "Year and dataset code row": 2001,
+  "Month": "March",
+  "Current price indices: Solid fuels": 49.148694665153236,
+  "Current price indices: Gas ": 40.50131926121372,
+  "Current price indices: Electricity ": 54.16133162612036,
+  "Current price indices: Liquid fuels": 41.61896974652494
+ },
+ {
+  "Year and dataset code row": 2001,
+  "Month": "April",
+  "Current price indices: Solid fuels": 49.148694665153236,
+  "Current price indices: Gas ": 42.0844327176781,
+  "Current price indices: Electricity ": 54.16133162612036,
+  "Current price indices: Liquid fuels": 40.31071136549468
+ },
+ {
+  "Year and dataset code row": 2001,
+  "Month": "May",
+  "Current price indices: Solid fuels": 48.58115777525539,
+  "Current price indices: Gas ": 42.21635883905013,
+  "Current price indices: Electricity ": 54.16133162612036,
+  "Current price indices: Liquid fuels": 42.109566639411284
+ },
+ {
+  "Year and dataset code row": 2001,
+  "Month": "June",
+  "Current price indices: Solid fuels": 48.35414301929626,
+  "Current price indices: Gas ": 42.21635883905013,
+  "Current price indices: Electricity ": 54.289372599231754,
+  "Current price indices: Liquid fuels": 42.19133278822568
+ },
+ {
+  "Year and dataset code row": 2001,
+  "Month": "July",
+  "Current price indices: Solid fuels": 48.12712826333712,
+  "Current price indices: Gas ": 42.21635883905013,
+  "Current price indices: Electricity ": 54.289372599231754,
+  "Current price indices: Liquid fuels": 40.39247751430908
+ },
+ {
+  "Year and dataset code row": 2001,
+  "Month": "August",
+  "Current price indices: Solid fuels": 48.240635641316686,
+  "Current price indices: Gas ": 42.21635883905013,
+  "Current price indices: Electricity ": 54.289372599231754,
+  "Current price indices: Liquid fuels": 39.16598528209321
+ },
+ {
+  "Year and dataset code row": 2001,
+  "Month": "September",
+  "Current price indices: Solid fuels": 50.62429057888763,
+  "Current price indices: Gas ": 42.21635883905013,
+  "Current price indices: Electricity ": 54.41741357234315,
+  "Current price indices: Liquid fuels": 46.60670482420278
+ },
+ {
+  "Year and dataset code row": 2001,
+  "Month": "October",
+  "Current price indices: Solid fuels": 51.87287173666289,
+  "Current price indices: Gas ": 42.21635883905013,
+  "Current price indices: Electricity ": 54.41741357234315,
+  "Current price indices: Liquid fuels": 38.51185609157809
+ },
+ {
+  "Year and dataset code row": 2001,
+  "Month": "November",
+  "Current price indices: Solid fuels": 52.213393870601585,
+  "Current price indices: Gas ": 42.21635883905013,
+  "Current price indices: Electricity ": 54.41741357234315,
+  "Current price indices: Liquid fuels": 34.91414554374489
+ },
+ {
+  "Year and dataset code row": 2001,
+  "Month": "December",
+  "Current price indices: Solid fuels": 52.32690124858116,
+  "Current price indices: Gas ": 42.21635883905013,
+  "Current price indices: Electricity ": 54.41741357234315,
+  "Current price indices: Liquid fuels": 32.78822567457073
+ },
+ {
+  "Year and dataset code row": 2002,
+  "Month": "January",
+  "Current price indices: Solid fuels": 52.32690124858116,
+  "Current price indices: Gas ": 44.06332453825858,
+  "Current price indices: Electricity ": 54.41741357234315,
+  "Current price indices: Liquid fuels": 34.341782502044154
+ },
+ {
+  "Year and dataset code row": 2002,
+  "Month": "February",
+  "Current price indices: Solid fuels": 52.32690124858116,
+  "Current price indices: Gas ": 44.06332453825858,
+  "Current price indices: Electricity ": 54.41741357234315,
+  "Current price indices: Liquid fuels": 33.19705641864268
+ },
+ {
+  "Year and dataset code row": 2002,
+  "Month": "March",
+  "Current price indices: Solid fuels": 52.44040862656073,
+  "Current price indices: Gas ": 44.19525065963061,
+  "Current price indices: Electricity ": 54.41741357234315,
+  "Current price indices: Liquid fuels": 35.241210139002455
+ },
+ {
+  "Year and dataset code row": 2002,
+  "Month": "April",
+  "Current price indices: Solid fuels": 52.44040862656073,
+  "Current price indices: Gas ": 44.32717678100264,
+  "Current price indices: Electricity ": 54.41741357234315,
+  "Current price indices: Liquid fuels": 36.549468520032704
+ },
+ {
+  "Year and dataset code row": 2002,
+  "Month": "May",
+  "Current price indices: Solid fuels": 51.645856980703755,
+  "Current price indices: Gas ": 44.32717678100264,
+  "Current price indices: Electricity ": 54.545454545454554,
+  "Current price indices: Liquid fuels": 36.71300081766149
+ },
+ {
+  "Year and dataset code row": 2002,
+  "Month": "June",
+  "Current price indices: Solid fuels": 51.41884222474461,
+  "Current price indices: Gas ": 44.459102902374674,
+  "Current price indices: Electricity ": 54.545454545454554,
+  "Current price indices: Liquid fuels": 35.7318070318888
+ },
+ {
+  "Year and dataset code row": 2002,
+  "Month": "July",
+  "Current price indices: Solid fuels": 51.41884222474461,
+  "Current price indices: Gas ": 44.459102902374674,
+  "Current price indices: Electricity ": 54.545454545454554,
+  "Current price indices: Liquid fuels": 35.241210139002455
+ },
+ {
+  "Year and dataset code row": 2002,
+  "Month": "August",
+  "Current price indices: Solid fuels": 51.30533484676505,
+  "Current price indices: Gas ": 44.459102902374674,
+  "Current price indices: Electricity ": 54.545454545454554,
+  "Current price indices: Liquid fuels": 34.75061324611611
+ },
+ {
+  "Year and dataset code row": 2002,
+  "Month": "September",
+  "Current price indices: Solid fuels": 52.213393870601585,
+  "Current price indices: Gas ": 44.459102902374674,
+  "Current price indices: Electricity ": 54.545454545454554,
+  "Current price indices: Liquid fuels": 39.329517579721994
+ },
+ {
+  "Year and dataset code row": 2002,
+  "Month": "October",
+  "Current price indices: Solid fuels": 53.23496027241771,
+  "Current price indices: Gas ": 44.459102902374674,
+  "Current price indices: Electricity ": 54.545454545454554,
+  "Current price indices: Liquid fuels": 39.73834832379396
+ },
+ {
+  "Year and dataset code row": 2002,
+  "Month": "November",
+  "Current price indices: Solid fuels": 53.68898978433598,
+  "Current price indices: Gas ": 44.459102902374674,
+  "Current price indices: Electricity ": 54.545454545454554,
+  "Current price indices: Liquid fuels": 36.05887162714637
+ },
+ {
+  "Year and dataset code row": 2002,
+  "Month": "December",
+  "Current price indices: Solid fuels": 53.57548240635642,
+  "Current price indices: Gas ": 44.5910290237467,
+  "Current price indices: Electricity ": 54.545454545454554,
+  "Current price indices: Liquid fuels": 39.98364677023712
+ },
+ {
+  "Year and dataset code row": 2003,
+  "Month": "January",
+  "Current price indices: Solid fuels": 53.46197502837685,
+  "Current price indices: Gas ": 44.5910290237467,
+  "Current price indices: Electricity ": 54.67349551856595,
+  "Current price indices: Liquid fuels": 41.86426819296811
+ },
+ {
+  "Year and dataset code row": 2003,
+  "Month": "February",
+  "Current price indices: Solid fuels": 53.46197502837685,
+  "Current price indices: Gas ": 44.5910290237467,
+  "Current price indices: Electricity ": 54.67349551856595,
+  "Current price indices: Liquid fuels": 49.223221586263286
+ },
+ {
+  "Year and dataset code row": 2003,
+  "Month": "March",
+  "Current price indices: Solid fuels": 53.57548240635642,
+  "Current price indices: Gas ": 44.5910290237467,
+  "Current price indices: Electricity ": 54.67349551856595,
+  "Current price indices: Liquid fuels": 50.695012264922326
+ },
+ {
+  "Year and dataset code row": 2003,
+  "Month": "April",
+  "Current price indices: Solid fuels": 53.23496027241771,
+  "Current price indices: Gas ": 44.72295514511873,
+  "Current price indices: Electricity ": 54.67349551856595,
+  "Current price indices: Liquid fuels": 37.93949304987735
+ },
+ {
+  "Year and dataset code row": 2003,
+  "Month": "May",
+  "Current price indices: Solid fuels": 52.667423382519864,
+  "Current price indices: Gas ": 44.9868073878628,
+  "Current price indices: Electricity ": 54.80153649167734,
+  "Current price indices: Liquid fuels": 35.65004088307441
+ },
+ {
+  "Year and dataset code row": 2003,
+  "Month": "June",
+  "Current price indices: Solid fuels": 52.55391600454029,
+  "Current price indices: Gas ": 45.25065963060686,
+  "Current price indices: Electricity ": 54.929577464788736,
+  "Current price indices: Liquid fuels": 34.995911692559275
+ },
+ {
+  "Year and dataset code row": 2003,
+  "Month": "July",
+  "Current price indices: Solid fuels": 52.55391600454029,
+  "Current price indices: Gas ": 45.382585751978894,
+  "Current price indices: Electricity ": 55.05761843790013,
+  "Current price indices: Liquid fuels": 36.22240392477514
+ },
+ {
+  "Year and dataset code row": 2003,
+  "Month": "August",
+  "Current price indices: Solid fuels": 52.55391600454029,
+  "Current price indices: Gas ": 45.514511873350926,
+  "Current price indices: Electricity ": 55.31370038412293,
+  "Current price indices: Liquid fuels": 37.69419460343418
+ },
+ {
+  "Year and dataset code row": 2003,
+  "Month": "September",
+  "Current price indices: Solid fuels": 53.34846765039728,
+  "Current price indices: Gas ": 45.514511873350926,
+  "Current price indices: Electricity ": 55.44174135723432,
+  "Current price indices: Liquid fuels": 37.20359771054784
+ },
+ {
+  "Year and dataset code row": 2003,
+  "Month": "October",
+  "Current price indices: Solid fuels": 54.3700340522134,
+  "Current price indices: Gas ": 45.64643799472296,
+  "Current price indices: Electricity ": 55.44174135723432,
+  "Current price indices: Liquid fuels": 40.39247751430908
+ },
+ {
+  "Year and dataset code row": 2003,
+  "Month": "November",
+  "Current price indices: Solid fuels": 54.48354143019296,
+  "Current price indices: Gas ": 45.77836411609499,
+  "Current price indices: Electricity ": 55.56978233034572,
+  "Current price indices: Liquid fuels": 40.228945216680295
+ },
+ {
+  "Year and dataset code row": 2003,
+  "Month": "December",
+  "Current price indices: Solid fuels": 54.48354143019296,
+  "Current price indices: Gas ": 45.91029023746702,
+  "Current price indices: Electricity ": 55.697823303457106,
+  "Current price indices: Liquid fuels": 42.109566639411284
+ },
+ {
+  "Year and dataset code row": 2004,
+  "Month": "January",
+  "Current price indices: Solid fuels": 54.710556186152104,
+  "Current price indices: Gas ": 46.17414248021108,
+  "Current price indices: Electricity ": 55.953905249679906,
+  "Current price indices: Liquid fuels": 41.29190515126738
+ },
+ {
+  "Year and dataset code row": 2004,
+  "Month": "February",
+  "Current price indices: Solid fuels": 54.937570942111236,
+  "Current price indices: Gas ": 46.701846965699204,
+  "Current price indices: Electricity ": 56.33802816901409,
+  "Current price indices: Liquid fuels": 40.228945216680295
+ },
+ {
+  "Year and dataset code row": 2004,
+  "Month": "March",
+  "Current price indices: Solid fuels": 54.82406356413166,
+  "Current price indices: Gas ": 47.361477572559366,
+  "Current price indices: Electricity ": 56.97823303457107,
+  "Current price indices: Liquid fuels": 40.71954210956664
+ },
+ {
+  "Year and dataset code row": 2004,
+  "Month": "April",
+  "Current price indices: Solid fuels": 54.82406356413166,
+  "Current price indices: Gas ": 47.75725593667547,
+  "Current price indices: Electricity ": 57.61843790012805,
+  "Current price indices: Liquid fuels": 44.235486508585446
+ },
+ {
+  "Year and dataset code row": 2004,
+  "Month": "May",
+  "Current price indices: Solid fuels": 54.3700340522134,
+  "Current price indices: Gas ": 47.88918205804749,
+  "Current price indices: Electricity ": 57.874519846350836,
+  "Current price indices: Liquid fuels": 47.66966475878986
+ },
+ {
+  "Year and dataset code row": 2004,
+  "Month": "June",
+  "Current price indices: Solid fuels": 54.25652667423383,
+  "Current price indices: Gas ": 48.02110817941953,
+  "Current price indices: Electricity ": 58.25864276568502,
+  "Current price indices: Liquid fuels": 44.889615699100574
+ },
+ {
+  "Year and dataset code row": 2004,
+  "Month": "July",
+  "Current price indices: Solid fuels": 54.59704880817253,
+  "Current price indices: Gas ": 48.15303430079156,
+  "Current price indices: Electricity ": 58.38668373879642,
+  "Current price indices: Liquid fuels": 45.29844644317252
+ },
+ {
+  "Year and dataset code row": 2004,
+  "Month": "August",
+  "Current price indices: Solid fuels": 55.50510783200908,
+  "Current price indices: Gas ": 48.28496042216359,
+  "Current price indices: Electricity ": 58.51472471190782,
+  "Current price indices: Liquid fuels": 49.71381847914963
+ },
+ {
+  "Year and dataset code row": 2004,
+  "Month": "September",
+  "Current price indices: Solid fuels": 56.8671963677639,
+  "Current price indices: Gas ": 48.416886543535625,
+  "Current price indices: Electricity ": 58.7708066581306,
+  "Current price indices: Liquid fuels": 52.16680294358136
+ },
+ {
+  "Year and dataset code row": 2004,
+  "Month": "October",
+  "Current price indices: Solid fuels": 59.13734392735528,
+  "Current price indices: Gas ": 49.07651715039578,
+  "Current price indices: Electricity ": 59.411011523687584,
+  "Current price indices: Liquid fuels": 59.19869174161898
+ },
+ {
+  "Year and dataset code row": 2004,
+  "Month": "November",
+  "Current price indices: Solid fuels": 59.8183881952327,
+  "Current price indices: Gas ": 50.65963060686016,
+  "Current price indices: Electricity ": 60.43533930857875,
+  "Current price indices: Liquid fuels": 55.02861815208504
+ },
+ {
+  "Year and dataset code row": 2004,
+  "Month": "December",
+  "Current price indices: Solid fuels": 60.385925085130545,
+  "Current price indices: Gas ": 52.37467018469657,
+  "Current price indices: Electricity ": 61.587708066581314,
+  "Current price indices: Liquid fuels": 51.02207686017989
+ },
+ {
+  "Year and dataset code row": 2005,
+  "Month": "January",
+  "Current price indices: Solid fuels": 60.61293984108968,
+  "Current price indices: Gas ": 53.29815303430079,
+  "Current price indices: Electricity ": 62.483994878361074,
+  "Current price indices: Liquid fuels": 51.7579721995094
+ },
+ {
+  "Year and dataset code row": 2005,
+  "Month": "February",
+  "Current price indices: Solid fuels": 61.06696935300795,
+  "Current price indices: Gas ": 53.562005277044854,
+  "Current price indices: Electricity ": 62.996158770806666,
+  "Current price indices: Liquid fuels": 51.83973834832379
+ },
+ {
+  "Year and dataset code row": 2005,
+  "Month": "March",
+  "Current price indices: Solid fuels": 61.18047673098752,
+  "Current price indices: Gas ": 53.69393139841689,
+  "Current price indices: Electricity ": 63.38028169014085,
+  "Current price indices: Liquid fuels": 59.19869174161898
+ },
+ {
+  "Year and dataset code row": 2005,
+  "Month": "April",
+  "Current price indices: Solid fuels": 61.18047673098752,
+  "Current price indices: Gas ": 53.95778364116095,
+  "Current price indices: Electricity ": 63.63636363636365,
+  "Current price indices: Liquid fuels": 61.324611610793134
+ },
+ {
+  "Year and dataset code row": 2005,
+  "Month": "May",
+  "Current price indices: Solid fuels": 60.61293984108968,
+  "Current price indices: Gas ": 54.089709762532976,
+  "Current price indices: Electricity ": 63.76440460947504,
+  "Current price indices: Liquid fuels": 57.89043336058871
+ },
+ {
+  "Year and dataset code row": 2005,
+  "Month": "June",
+  "Current price indices: Solid fuels": 60.385925085130545,
+  "Current price indices: Gas ": 54.35356200527705,
+  "Current price indices: Electricity ": 63.89244558258643,
+  "Current price indices: Liquid fuels": 63.695829926410475
+ },
+ {
+  "Year and dataset code row": 2005,
+  "Month": "July",
+  "Current price indices: Solid fuels": 60.27241770715097,
+  "Current price indices: Gas ": 54.35356200527705,
+  "Current price indices: Electricity ": 63.89244558258643,
+  "Current price indices: Liquid fuels": 68.11120196238757
+ },
+ {
+  "Year and dataset code row": 2005,
+  "Month": "August",
+  "Current price indices: Solid fuels": 61.06696935300795,
+  "Current price indices: Gas ": 54.485488126649074,
+  "Current price indices: Electricity ": 64.02048655569783,
+  "Current price indices: Liquid fuels": 72.28127555192151
+ },
+ {
+  "Year and dataset code row": 2005,
+  "Month": "September",
+  "Current price indices: Solid fuels": 61.74801362088536,
+  "Current price indices: Gas ": 55.145118733509236,
+  "Current price indices: Electricity ": 64.7887323943662,
+  "Current price indices: Liquid fuels": 73.83483237939494
+ },
+ {
+  "Year and dataset code row": 2005,
+  "Month": "October",
+  "Current price indices: Solid fuels": 64.35868331441544,
+  "Current price indices: Gas ": 57.25593667546174,
+  "Current price indices: Electricity ": 66.19718309859157,
+  "Current price indices: Liquid fuels": 76.778413736713
+ },
+ {
+  "Year and dataset code row": 2005,
+  "Month": "November",
+  "Current price indices: Solid fuels": 65.03972758229285,
+  "Current price indices: Gas ": 59.36675461741425,
+  "Current price indices: Electricity ": 67.6056338028169,
+  "Current price indices: Liquid fuels": 68.43826655764515
+ },
+ {
+  "Year and dataset code row": 2005,
+  "Month": "December",
+  "Current price indices: Solid fuels": 65.15323496027243,
+  "Current price indices: Gas ": 60.554089709762536,
+  "Current price indices: Electricity ": 68.24583866837388,
+  "Current price indices: Liquid fuels": 70.97301717089125
+ },
+ {
+  "Year and dataset code row": 2006,
+  "Month": "January",
+  "Current price indices: Solid fuels": 65.26674233825199,
+  "Current price indices: Gas ": 61.08179419525066,
+  "Current price indices: Electricity ": 68.88604353393086,
+  "Current price indices: Liquid fuels": 72.28127555192151
+ },
+ {
+  "Year and dataset code row": 2006,
+  "Month": "February",
+  "Current price indices: Solid fuels": 65.26674233825199,
+  "Current price indices: Gas ": 61.34564643799473,
+  "Current price indices: Electricity ": 69.65428937259924,
+  "Current price indices: Liquid fuels": 73.67130008176615
+ },
+ {
+  "Year and dataset code row": 2006,
+  "Month": "March",
+  "Current price indices: Solid fuels": 65.38024971623156,
+  "Current price indices: Gas ": 63.3245382585752,
+  "Current price indices: Electricity ": 71.57490396927017,
+  "Current price indices: Liquid fuels": 74.48896156991005
+ },
+ {
+  "Year and dataset code row": 2006,
+  "Month": "April",
+  "Current price indices: Solid fuels": 65.49375709421113,
+  "Current price indices: Gas ": 67.28232189973615,
+  "Current price indices: Electricity ": 74.64788732394366,
+  "Current price indices: Liquid fuels": 76.61488143908423
+ },
+ {
+  "Year and dataset code row": 2006,
+  "Month": "May",
+  "Current price indices: Solid fuels": 66.17480136208854,
+  "Current price indices: Gas ": 71.37203166226914,
+  "Current price indices: Electricity ": 77.72087067861717,
+  "Current price indices: Liquid fuels": 77.10547833197057
+ },
+ {
+  "Year and dataset code row": 2006,
+  "Month": "June",
+  "Current price indices: Solid fuels": 64.9262202043133,
+  "Current price indices: Gas ": 73.35092348284961,
+  "Current price indices: Electricity ": 79.6414852752881,
+  "Current price indices: Liquid fuels": 77.02371218315618
+ },
+ {
+  "Year and dataset code row": 2006,
+  "Month": "July",
+  "Current price indices: Solid fuels": 64.81271282633372,
+  "Current price indices: Gas ": 74.14248021108179,
+  "Current price indices: Electricity ": 80.40973111395647,
+  "Current price indices: Liquid fuels": 79.47669664758791
+ },
+ {
+  "Year and dataset code row": 2006,
+  "Month": "August",
+  "Current price indices: Solid fuels": 65.38024971623156,
+  "Current price indices: Gas ": 74.93403693931398,
+  "Current price indices: Electricity ": 81.04993597951345,
+  "Current price indices: Liquid fuels": 77.75960752248568
+ },
+ {
+  "Year and dataset code row": 2006,
+  "Month": "September",
+  "Current price indices: Solid fuels": 66.17480136208854,
+  "Current price indices: Gas ": 76.78100263852244,
+  "Current price indices: Electricity ": 82.0742637644046,
+  "Current price indices: Liquid fuels": 73.67130008176615
+ },
+ {
+  "Year and dataset code row": 2006,
+  "Month": "October",
+  "Current price indices: Solid fuels": 69.5800227014756,
+  "Current price indices: Gas ": 80.47493403693932,
+  "Current price indices: Electricity ": 84.25096030729834,
+  "Current price indices: Liquid fuels": 67.62060506950122
+ },
+ {
+  "Year and dataset code row": 2006,
+  "Month": "November",
+  "Current price indices: Solid fuels": 70.37457434733258,
+  "Current price indices: Gas ": 82.98153034300792,
+  "Current price indices: Electricity ": 85.91549295774648,
+  "Current price indices: Liquid fuels": 64.51349141455438
+ },
+ {
+  "Year and dataset code row": 2006,
+  "Month": "December",
+  "Current price indices: Solid fuels": 70.37457434733258,
+  "Current price indices: Gas ": 84.5646437994723,
+  "Current price indices: Electricity ": 86.93982074263765,
+  "Current price indices: Liquid fuels": 67.62060506950122
+ },
+ {
+  "Year and dataset code row": 2007,
+  "Month": "January",
+  "Current price indices: Solid fuels": 70.48808172531214,
+  "Current price indices: Gas ": 84.82849604221636,
+  "Current price indices: Electricity ": 87.32394366197184,
+  "Current price indices: Liquid fuels": 62.87816843826657
+ },
+ {
+  "Year and dataset code row": 2007,
+  "Month": "February",
+  "Current price indices: Solid fuels": 70.71509648127129,
+  "Current price indices: Gas ": 85.09234828496042,
+  "Current price indices: Electricity ": 87.58002560819463,
+  "Current price indices: Liquid fuels": 64.34995911692559
+ },
+ {
+  "Year and dataset code row": 2007,
+  "Month": "March",
+  "Current price indices: Solid fuels": 70.71509648127129,
+  "Current price indices: Gas ": 84.43271767810026,
+  "Current price indices: Electricity ": 87.58002560819463,
+  "Current price indices: Liquid fuels": 66.55764513491415
+ },
+ {
+  "Year and dataset code row": 2007,
+  "Month": "April",
+  "Current price indices: Solid fuels": 70.71509648127129,
+  "Current price indices: Gas ": 82.05804749340369,
+  "Current price indices: Electricity ": 86.81177976952625,
+  "Current price indices: Liquid fuels": 69.33769419460344
+ },
+ {
+  "Year and dataset code row": 2007,
+  "Month": "May",
+  "Current price indices: Solid fuels": 70.37457434733258,
+  "Current price indices: Gas ": 79.41952506596307,
+  "Current price indices: Electricity ": 85.78745198463508,
+  "Current price indices: Liquid fuels": 69.01062959934588
+ },
+ {
+  "Year and dataset code row": 2007,
+  "Month": "June",
+  "Current price indices: Solid fuels": 70.03405221339388,
+  "Current price indices: Gas ": 77.17678100263853,
+  "Current price indices: Electricity ": 84.63508322663252,
+  "Current price indices: Liquid fuels": 70.72771872444808
+ },
+ {
+  "Year and dataset code row": 2007,
+  "Month": "July",
+  "Current price indices: Solid fuels": 69.9205448354143,
+  "Current price indices: Gas ": 75.46174142480211,
+  "Current price indices: Electricity ": 83.61075544174136,
+  "Current price indices: Liquid fuels": 72.60834014717906
+ },
+ {
+  "Year and dataset code row": 2007,
+  "Month": "August",
+  "Current price indices: Solid fuels": 70.03405221339388,
+  "Current price indices: Gas ": 74.40633245382587,
+  "Current price indices: Electricity ": 83.09859154929579,
+  "Current price indices: Liquid fuels": 71.13654946852004
+ },
+ {
+  "Year and dataset code row": 2007,
+  "Month": "September",
+  "Current price indices: Solid fuels": 70.82860385925085,
+  "Current price indices: Gas ": 73.87862796833772,
+  "Current price indices: Electricity ": 83.09859154929579,
+  "Current price indices: Liquid fuels": 75.47015535568275
+ },
+ {
+  "Year and dataset code row": 2007,
+  "Month": "October",
+  "Current price indices: Solid fuels": 72.8717366628831,
+  "Current price indices: Gas ": 73.61477572559366,
+  "Current price indices: Electricity ": 82.97055057618438,
+  "Current price indices: Liquid fuels": 78.25020441537204
+ },
+ {
+  "Year and dataset code row": 2007,
+  "Month": "November",
+  "Current price indices: Solid fuels": 74.23382519863793,
+  "Current price indices: Gas ": 73.61477572559366,
+  "Current price indices: Electricity ": 82.97055057618438,
+  "Current price indices: Liquid fuels": 88.79803761242844
+ },
+ {
+  "Year and dataset code row": 2007,
+  "Month": "December",
+  "Current price indices: Solid fuels": 75.70942111237231,
+  "Current price indices: Gas ": 73.7467018469657,
+  "Current price indices: Electricity ": 82.97055057618438,
+  "Current price indices: Liquid fuels": 89.2886345053148
+ },
+ {
+  "Year and dataset code row": 2008,
+  "Month": "January",
+  "Current price indices: Solid fuels": 76.61748013620885,
+  "Current price indices: Gas ": 74.14248021108179,
+  "Current price indices: Electricity ": 83.35467349551855,
+  "Current price indices: Liquid fuels": 92.72281275551923
+ },
+ {
+  "Year and dataset code row": 2008,
+  "Month": "February",
+  "Current price indices: Solid fuels": 76.95800227014756,
+  "Current price indices: Gas ": 83.37730870712402,
+  "Current price indices: Electricity ": 92.18950064020487,
+  "Current price indices: Liquid fuels": 92.88634505314799
+ },
+ {
+  "Year and dataset code row": 2008,
+  "Month": "March",
+  "Current price indices: Solid fuels": 77.29852440408627,
+  "Current price indices: Gas ": 83.37730870712402,
+  "Current price indices: Electricity ": 92.18950064020487,
+  "Current price indices: Liquid fuels": 106.05069501226492
+ },
+ {
+  "Year and dataset code row": 2008,
+  "Month": "April",
+  "Current price indices: Solid fuels": 77.52553916004541,
+  "Current price indices: Gas ": 85.09234828496042,
+  "Current price indices: Electricity ": 94.1101152368758,
+  "Current price indices: Liquid fuels": 117.25265739983648
+ },
+ {
+  "Year and dataset code row": 2008,
+  "Month": "May",
+  "Current price indices: Solid fuels": 79.11464245175938,
+  "Current price indices: Gas ": 85.09234828496042,
+  "Current price indices: Electricity ": 94.1101152368758,
+  "Current price indices: Liquid fuels": 127.22812755519215
+ },
+ {
+  "Year and dataset code row": 2008,
+  "Month": "June",
+  "Current price indices: Solid fuels": 80.70374574347332,
+  "Current price indices: Gas ": 85.09234828496042,
+  "Current price indices: Electricity ": 94.1101152368758,
+  "Current price indices: Liquid fuels": 132.86999182338513
+ },
+ {
+  "Year and dataset code row": 2008,
+  "Month": "July",
+  "Current price indices: Solid fuels": 81.4982973893303,
+  "Current price indices: Gas ": 85.22427440633244,
+  "Current price indices: Electricity ": 94.1101152368758,
+  "Current price indices: Liquid fuels": 139.57481602616517
+ },
+ {
+  "Year and dataset code row": 2008,
+  "Month": "August",
+  "Current price indices: Solid fuels": 82.40635641316686,
+  "Current price indices: Gas ": 95.11873350923481,
+  "Current price indices: Electricity ": 98.07938540332907,
+  "Current price indices: Liquid fuels": 118.31561733442355
+ },
+ {
+  "Year and dataset code row": 2008,
+  "Month": "September",
+  "Current price indices: Solid fuels": 89.78433598183881,
+  "Current price indices: Gas ": 110.8179419525066,
+  "Current price indices: Electricity ": 108.19462227912933,
+  "Current price indices: Liquid fuels": 115.29026982829109
+ },
+ {
+  "Year and dataset code row": 2008,
+  "Month": "October",
+  "Current price indices: Solid fuels": 98.18388195232691,
+  "Current price indices: Gas ": 111.08179419525067,
+  "Current price indices: Electricity ": 108.9628681177977,
+  "Current price indices: Liquid fuels": 98.52820932134097
+ },
+ {
+  "Year and dataset code row": 2008,
+  "Month": "November",
+  "Current price indices: Solid fuels": 98.97843359818388,
+  "Current price indices: Gas ": 110.94986807387863,
+  "Current price indices: Electricity ": 108.9628681177977,
+  "Current price indices: Liquid fuels": 90.51512673753066
+ },
+ {
+  "Year and dataset code row": 2008,
+  "Month": "December",
+  "Current price indices: Solid fuels": 99.88649262202044,
+  "Current price indices: Gas ": 110.94986807387863,
+  "Current price indices: Electricity ": 108.9628681177977,
+  "Current price indices: Liquid fuels": 80.53965658217498
+ },
+ {
+  "Year and dataset code row": 2009,
+  "Month": "January",
+  "Current price indices: Solid fuels": 101.02156640181612,
+  "Current price indices: Gas ": 110.94986807387863,
+  "Current price indices: Electricity ": 108.70678617157492,
+  "Current price indices: Liquid fuels": 79.31316434995912
+ },
+ {
+  "Year and dataset code row": 2009,
+  "Month": "February",
+  "Current price indices: Solid fuels": 101.13507377979569,
+  "Current price indices: Gas ": 110.94986807387863,
+  "Current price indices: Electricity ": 108.70678617157492,
+  "Current price indices: Liquid fuels": 74.89779231398201
+ },
+ {
+  "Year and dataset code row": 2009,
+  "Month": "March",
+  "Current price indices: Solid fuels": 101.02156640181612,
+  "Current price indices: Gas ": 106.2005277044855,
+  "Current price indices: Electricity ": 108.19462227912933,
+  "Current price indices: Liquid fuels": 67.53883892068683
+ },
+ {
+  "Year and dataset code row": 2009,
+  "Month": "April",
+  "Current price indices: Solid fuels": 101.02156640181612,
+  "Current price indices: Gas ": 105.14511873350925,
+  "Current price indices: Electricity ": 102.68886043533931,
+  "Current price indices: Liquid fuels": 71.545380212592
+ },
+ {
+  "Year and dataset code row": 2009,
+  "Month": "May",
+  "Current price indices: Solid fuels": 99.31895573212259,
+  "Current price indices: Gas ": 105.14511873350925,
+  "Current price indices: Electricity ": 100.5121638924456,
+  "Current price indices: Liquid fuels": 71.62714636140637
+ },
+ {
+  "Year and dataset code row": 2009,
+  "Month": "June",
+  "Current price indices: Solid fuels": 98.52440408626562,
+  "Current price indices: Gas ": 105.14511873350925,
+  "Current price indices: Electricity ": 100.5121638924456,
+  "Current price indices: Liquid fuels": 79.23139820114473
+ },
+ {
+  "Year and dataset code row": 2009,
+  "Month": "July",
+  "Current price indices: Solid fuels": 97.72985244040862,
+  "Current price indices: Gas ": 104.6174142480211,
+  "Current price indices: Electricity ": 100.5121638924456,
+  "Current price indices: Liquid fuels": 70.89125102207686
+ },
+ {
+  "Year and dataset code row": 2009,
+  "Month": "August",
+  "Current price indices: Solid fuels": 98.29738933030647,
+  "Current price indices: Gas ": 104.6174142480211,
+  "Current price indices: Electricity ": 100.5121638924456,
+  "Current price indices: Liquid fuels": 78.98609975470156
+ },
+ {
+  "Year and dataset code row": 2009,
+  "Month": "September",
+  "Current price indices: Solid fuels": 98.52440408626562,
+  "Current price indices: Gas ": 104.6174142480211,
+  "Current price indices: Electricity ": 100.5121638924456,
+  "Current price indices: Liquid fuels": 77.10547833197057
+ },
+ {
+  "Year and dataset code row": 2009,
+  "Month": "October",
+  "Current price indices: Solid fuels": 100.56753688989784,
+  "Current price indices: Gas ": 104.48548812664909,
+  "Current price indices: Electricity ": 100.12804097311141,
+  "Current price indices: Liquid fuels": 82.01144726083402
+ },
+ {
+  "Year and dataset code row": 2009,
+  "Month": "November",
+  "Current price indices: Solid fuels": 101.36208853575484,
+  "Current price indices: Gas ": 104.48548812664909,
+  "Current price indices: Electricity ": 100.12804097311141,
+  "Current price indices: Liquid fuels": 84.30089942763695
+ },
+ {
+  "Year and dataset code row": 2009,
+  "Month": "December",
+  "Current price indices: Solid fuels": 101.47559591373441,
+  "Current price indices: Gas ": 104.48548812664909,
+  "Current price indices: Electricity ": 100.12804097311141,
+  "Current price indices: Liquid fuels": 86.18152085036796
+ },
+ {
+  "Year and dataset code row": 2010,
+  "Month": "January",
+  "Current price indices: Solid fuels": 101.36208853575484,
+  "Current price indices: Gas ": 104.6174142480211,
+  "Current price indices: Electricity ": 100.12804097311141,
+  "Current price indices: Liquid fuels": 103.5977105478332
+ },
+ {
+  "Year and dataset code row": 2010,
+  "Month": "February",
+  "Current price indices: Solid fuels": 101.47559591373441,
+  "Current price indices: Gas ": 101.58311345646437,
+  "Current price indices: Electricity ": 100.12804097311141,
+  "Current price indices: Liquid fuels": 90.59689288634505
+ },
+ {
+  "Year and dataset code row": 2010,
+  "Month": "March",
+  "Current price indices: Solid fuels": 101.47559591373441,
+  "Current price indices: Gas ": 101.58311345646437,
+  "Current price indices: Electricity ": 100.12804097311141,
+  "Current price indices: Liquid fuels": 96.97465249386754
+ },
+ {
+  "Year and dataset code row": 2010,
+  "Month": "April",
+  "Current price indices: Solid fuels": 101.47559591373441,
+  "Current price indices: Gas ": 98.68073878627969,
+  "Current price indices: Electricity ": 99.87195902688862,
+  "Current price indices: Liquid fuels": 100.08176614881438
+ },
+ {
+  "Year and dataset code row": 2010,
+  "Month": "May",
+  "Current price indices: Solid fuels": 99.09194097616346,
+  "Current price indices: Gas ": 98.68073878627969,
+  "Current price indices: Electricity ": 99.87195902688862,
+  "Current price indices: Liquid fuels": 100.08176614881438
+ },
+ {
+  "Year and dataset code row": 2010,
+  "Month": "June",
+  "Current price indices: Solid fuels": 97.84335981838821,
+  "Current price indices: Gas ": 98.68073878627969,
+  "Current price indices: Electricity ": 99.87195902688862,
+  "Current price indices: Liquid fuels": 96.81112019623876
+ },
+ {
+  "Year and dataset code row": 2010,
+  "Month": "July",
+  "Current price indices: Solid fuels": 96.93530079455167,
+  "Current price indices: Gas ": 98.68073878627969,
+  "Current price indices: Electricity ": 99.87195902688862,
+  "Current price indices: Liquid fuels": 95.01226492232216
+ },
+ {
+  "Year and dataset code row": 2010,
+  "Month": "August",
+  "Current price indices: Solid fuels": 97.61634506242906,
+  "Current price indices: Gas ": 98.68073878627969,
+  "Current price indices: Electricity ": 99.87195902688862,
+  "Current price indices: Liquid fuels": 94.76696647587899
+ },
+ {
+  "Year and dataset code row": 2010,
+  "Month": "September",
+  "Current price indices: Solid fuels": 98.07037457434734,
+  "Current price indices: Gas ": 98.68073878627969,
+  "Current price indices: Electricity ": 99.87195902688862,
+  "Current price indices: Liquid fuels": 94.52166802943582
+ },
+ {
+  "Year and dataset code row": 2010,
+  "Month": "October",
+  "Current price indices: Solid fuels": 101.02156640181612,
+  "Current price indices: Gas ": 98.68073878627969,
+  "Current price indices: Electricity ": 99.61587708066581,
+  "Current price indices: Liquid fuels": 98.2011447260834
+ },
+ {
+  "Year and dataset code row": 2010,
+  "Month": "November",
+  "Current price indices: Solid fuels": 101.58910329171398,
+  "Current price indices: Gas ": 98.68073878627969,
+  "Current price indices: Electricity ": 99.61587708066581,
+  "Current price indices: Liquid fuels": 101.55355682747343
+ },
+ {
+  "Year and dataset code row": 2010,
+  "Month": "December",
+  "Current price indices: Solid fuels": 102.1566401816118,
+  "Current price indices: Gas ": 103.16622691292876,
+  "Current price indices: Electricity ": 100.89628681177977,
+  "Current price indices: Liquid fuels": 128.12755519215045
+ },
+ {
+  "Year and dataset code row": 2011,
+  "Month": "January",
+  "Current price indices: Solid fuels": 103.06469920544836,
+  "Current price indices: Gas ": 104.089709762533,
+  "Current price indices: Electricity ": 101.66453265044815,
+  "Current price indices: Liquid fuels": 125.51103843008995
+ },
+ {
+  "Year and dataset code row": 2011,
+  "Month": "February",
+  "Current price indices: Solid fuels": 103.9727582292849,
+  "Current price indices: Gas ": 104.48548812664909,
+  "Current price indices: Electricity ": 103.20102432778488,
+  "Current price indices: Liquid fuels": 119.78740801308258
+ },
+ {
+  "Year and dataset code row": 2011,
+  "Month": "March",
+  "Current price indices: Solid fuels": 103.74574347332577,
+  "Current price indices: Gas ": 105.0131926121372,
+  "Current price indices: Electricity ": 103.96927016645327,
+  "Current price indices: Liquid fuels": 130.4170073589534
+ },
+ {
+  "Year and dataset code row": 2011,
+  "Month": "April",
+  "Current price indices: Solid fuels": 104.08626560726448,
+  "Current price indices: Gas ": 105.0131926121372,
+  "Current price indices: Electricity ": 103.96927016645327,
+  "Current price indices: Liquid fuels": 135.6500408830744
+ },
+ {
+  "Year and dataset code row": 2011,
+  "Month": "May",
+  "Current price indices: Solid fuels": 102.72417707150964,
+  "Current price indices: Gas ": 105.0131926121372,
+  "Current price indices: Electricity ": 103.96927016645327,
+  "Current price indices: Liquid fuels": 125.42927228127556
+ },
+ {
+  "Year and dataset code row": 2011,
+  "Month": "June",
+  "Current price indices: Solid fuels": 102.49716231555051,
+  "Current price indices: Gas ": 105.0131926121372,
+  "Current price indices: Electricity ": 103.96927016645327,
+  "Current price indices: Liquid fuels": 128.69991823385118
+ },
+ {
+  "Year and dataset code row": 2011,
+  "Month": "July",
+  "Current price indices: Solid fuels": 102.72417707150964,
+  "Current price indices: Gas ": 105.0131926121372,
+  "Current price indices: Electricity ": 103.96927016645327,
+  "Current price indices: Liquid fuels": 124.77514309076044
+ },
+ {
+  "Year and dataset code row": 2011,
+  "Month": "August",
+  "Current price indices: Solid fuels": 102.83768444948922,
+  "Current price indices: Gas ": 106.86015831134566,
+  "Current price indices: Electricity ": 104.99359795134444,
+  "Current price indices: Liquid fuels": 120.11447260834017
+ },
+ {
+  "Year and dataset code row": 2011,
+  "Month": "September",
+  "Current price indices: Solid fuels": 103.40522133938705,
+  "Current price indices: Gas ": 120.71240105540898,
+  "Current price indices: Electricity ": 112.80409731113956,
+  "Current price indices: Liquid fuels": 123.79394930498775
+ },
+ {
+  "Year and dataset code row": 2011,
+  "Month": "October",
+  "Current price indices: Solid fuels": 109.08059023836549,
+  "Current price indices: Gas ": 122.42744063324538,
+  "Current price indices: Electricity ": 114.46862996158774,
+  "Current price indices: Liquid fuels": 123.22158626328698
+ },
+ {
+  "Year and dataset code row": 2011,
+  "Month": "November",
+  "Current price indices: Solid fuels": 109.87514188422247,
+  "Current price indices: Gas ": 123.61477572559367,
+  "Current price indices: Electricity ": 115.10883482714472,
+  "Current price indices: Liquid fuels": 130.90760425183973
+ },
+ {
+  "Year and dataset code row": 2011,
+  "Month": "December",
+  "Current price indices: Solid fuels": 110.10215664018162,
+  "Current price indices: Gas ": 123.61477572559367,
+  "Current price indices: Electricity ": 115.10883482714472,
+  "Current price indices: Liquid fuels": 131.39820114472607
+ },
+ {
+  "Year and dataset code row": 2012,
+  "Month": "January",
+  "Current price indices: Solid fuels": 110.21566401816119,
+  "Current price indices: Gas ": 123.61477572559367,
+  "Current price indices: Electricity ": 115.10883482714472,
+  "Current price indices: Liquid fuels": 131.64349959116925
+ },
+ {
+  "Year and dataset code row": 2012,
+  "Month": "February",
+  "Current price indices: Solid fuels": 109.53461975028378,
+  "Current price indices: Gas ": 122.42744063324538,
+  "Current price indices: Electricity ": 113.70038412291935,
+  "Current price indices: Liquid fuels": 134.096484055601
+ },
+ {
+  "Year and dataset code row": 2012,
+  "Month": "March",
+  "Current price indices: Solid fuels": 109.98864926220206,
+  "Current price indices: Gas ": 121.89973614775727,
+  "Current price indices: Electricity ": 112.41997439180538,
+  "Current price indices: Liquid fuels": 136.38593622240393
+ },
+ {
+  "Year and dataset code row": 2012,
+  "Month": "April",
+  "Current price indices: Solid fuels": 109.98864926220206,
+  "Current price indices: Gas ": 121.2401055408971,
+  "Current price indices: Electricity ": 112.41997439180538,
+  "Current price indices: Liquid fuels": 134.8323793949305
+ },
+ {
+  "Year and dataset code row": 2012,
+  "Month": "May",
+  "Current price indices: Solid fuels": 107.71850170261068,
+  "Current price indices: Gas ": 121.2401055408971,
+  "Current price indices: Electricity ": 112.29193341869399,
+  "Current price indices: Liquid fuels": 127.30989370400654
+ },
+ {
+  "Year and dataset code row": 2012,
+  "Month": "June",
+  "Current price indices: Solid fuels": 106.81044267877414,
+  "Current price indices: Gas ": 121.2401055408971,
+  "Current price indices: Electricity ": 112.29193341869399,
+  "Current price indices: Liquid fuels": 117.41618969746526
+ },
+ {
+  "Year and dataset code row": 2012,
+  "Month": "July",
+  "Current price indices: Solid fuels": 107.15096481271284,
+  "Current price indices: Gas ": 121.2401055408971,
+  "Current price indices: Electricity ": 112.29193341869399,
+  "Current price indices: Liquid fuels": 120.35977105478331
+ },
+ {
+  "Year and dataset code row": 2012,
+  "Month": "August",
+  "Current price indices: Solid fuels": 107.03745743473326,
+  "Current price indices: Gas ": 121.2401055408971,
+  "Current price indices: Electricity ": 112.29193341869399,
+  "Current price indices: Liquid fuels": 128.86345053147997
+ },
+ {
+  "Year and dataset code row": 2012,
+  "Month": "September",
+  "Current price indices: Solid fuels": 107.49148694665153,
+  "Current price indices: Gas ": 121.2401055408971,
+  "Current price indices: Electricity ": 112.29193341869399,
+  "Current price indices: Liquid fuels": 132.37939493049876
+ },
+ {
+  "Year and dataset code row": 2012,
+  "Month": "October",
+  "Current price indices: Solid fuels": 108.39954597048809,
+  "Current price indices: Gas ": 121.2401055408971,
+  "Current price indices: Electricity ": 111.7797695262484,
+  "Current price indices: Liquid fuels": 133.8511856091578
+ },
+ {
+  "Year and dataset code row": 2012,
+  "Month": "November",
+  "Current price indices: Solid fuels": 108.85357548240637,
+  "Current price indices: Gas ": 123.48284960422163,
+  "Current price indices: Electricity ": 113.82842509603076,
+  "Current price indices: Liquid fuels": 130.74407195421097
+ },
+ {
+  "Year and dataset code row": 2012,
+  "Month": "December",
+  "Current price indices: Solid fuels": 109.42111237230421,
+  "Current price indices: Gas ": 130.07915567282322,
+  "Current price indices: Electricity ": 119.59026888604356,
+  "Current price indices: Liquid fuels": 137.5306623058054
+ },
+ {
+  "Year and dataset code row": 2013,
+  "Month": "January",
+  "Current price indices: Solid fuels": 109.53461975028378,
+  "Current price indices: Gas ": 129.9472295514512,
+  "Current price indices: Electricity ": 119.59026888604356,
+  "Current price indices: Liquid fuels": 134.66884709730172
+ },
+ {
+  "Year and dataset code row": 2013,
+  "Month": "February",
+  "Current price indices: Solid fuels": 109.76163450624293,
+  "Current price indices: Gas ": 131.2664907651715,
+  "Current price indices: Electricity ": 120.99871959026889,
+  "Current price indices: Liquid fuels": 143.17252657399837
+ },
+ {
+  "Year and dataset code row": 2013,
+  "Month": "March",
+  "Current price indices: Solid fuels": 109.19409761634506,
+  "Current price indices: Gas ": 131.2664907651715,
+  "Current price indices: Electricity ": 120.99871959026889,
+  "Current price indices: Liquid fuels": 141.45543744889616
+ },
+ {
+  "Year and dataset code row": 2013,
+  "Month": "April",
+  "Current price indices: Solid fuels": 109.19409761634506,
+  "Current price indices: Gas ": 131.2664907651715,
+  "Current price indices: Electricity ": 120.99871959026889,
+  "Current price indices: Liquid fuels": 133.8511856091578
+ },
+ {
+  "Year and dataset code row": 2013,
+  "Month": "May",
+  "Current price indices: Solid fuels": 109.42111237230421,
+  "Current price indices: Gas ": 131.2664907651715,
+  "Current price indices: Electricity ": 120.99871959026889,
+  "Current price indices: Liquid fuels": 125.0204415372036
+ },
+ {
+  "Year and dataset code row": 2013,
+  "Month": "June",
+  "Current price indices: Solid fuels": 109.30760499432463,
+  "Current price indices: Gas ": 131.2664907651715,
+  "Current price indices: Electricity ": 120.99871959026889,
+  "Current price indices: Liquid fuels": 124.69337694194604
+ },
+ {
+  "Year and dataset code row": 2013,
+  "Month": "July",
+  "Current price indices: Solid fuels": 109.64812712826333,
+  "Current price indices: Gas ": 131.2664907651715,
+  "Current price indices: Electricity ": 121.38284250960308,
+  "Current price indices: Liquid fuels": 127.96402289452166
+ },
+ {
+  "Year and dataset code row": 2013,
+  "Month": "August",
+  "Current price indices: Solid fuels": 109.53461975028378,
+  "Current price indices: Gas ": 131.2664907651715,
+  "Current price indices: Electricity ": 121.38284250960308,
+  "Current price indices: Liquid fuels": 128.04578904333604
+ },
+ {
+  "Year and dataset code row": 2013,
+  "Month": "September",
+  "Current price indices: Solid fuels": 110.10215664018162,
+  "Current price indices: Gas ": 131.2664907651715,
+  "Current price indices: Electricity ": 121.38284250960308,
+  "Current price indices: Liquid fuels": 131.07113654946855
+ },
+ {
+  "Year and dataset code row": 2013,
+  "Month": "October",
+  "Current price indices: Solid fuels": 111.35073779795688,
+  "Current price indices: Gas ": 131.2664907651715,
+  "Current price indices: Electricity ": 121.38284250960308,
+  "Current price indices: Liquid fuels": 127.14636140637776
+ },
+ {
+  "Year and dataset code row": 2013,
+  "Month": "November",
+  "Current price indices: Solid fuels": 112.372304199773,
+  "Current price indices: Gas ": 131.2664907651715,
+  "Current price indices: Electricity ": 121.38284250960308,
+  "Current price indices: Liquid fuels": 124.69337694194604
+ },
+ {
+  "Year and dataset code row": 2013,
+  "Month": "December",
+  "Current price indices: Solid fuels": 112.59931895573214,
+  "Current price indices: Gas ": 140.10554089709763,
+  "Current price indices: Electricity ": 129.3213828425096,
+  "Current price indices: Liquid fuels": 128.37285363859363
+ },
+ {
+  "Year and dataset code row": 2014,
+  "Month": "January",
+  "Current price indices: Solid fuels": 113.28036322360956,
+  "Current price indices: Gas ": 138.7862796833773,
+  "Current price indices: Electricity ": 129.06530089628683,
+  "Current price indices: Liquid fuels": 125.10220768601799
+ },
+ {
+  "Year and dataset code row": 2014,
+  "Month": "February",
+  "Current price indices: Solid fuels": 113.28036322360956,
+  "Current price indices: Gas ": 139.0501319261214,
+  "Current price indices: Electricity ": 129.3213828425096,
+  "Current price indices: Liquid fuels": 125.26573998364677
+ },
+ {
+  "Year and dataset code row": 2014,
+  "Month": "March",
+  "Current price indices: Solid fuels": 113.16685584562998,
+  "Current price indices: Gas ": 138.65435356200527,
+  "Current price indices: Electricity ": 129.06530089628683,
+  "Current price indices: Liquid fuels": 121.66802943581358
+ },
+ {
+  "Year and dataset code row": 2014,
+  "Month": "April",
+  "Current price indices: Solid fuels": 113.39387060158911,
+  "Current price indices: Gas ": 137.9947229551451,
+  "Current price indices: Electricity ": 128.29705505761845,
+  "Current price indices: Liquid fuels": 119.6238757154538
+ },
+ {
+  "Year and dataset code row": 2014,
+  "Month": "May",
+  "Current price indices: Solid fuels": 112.48581157775254,
+  "Current price indices: Gas ": 137.9947229551451,
+  "Current price indices: Electricity ": 128.29705505761845,
+  "Current price indices: Liquid fuels": 118.31561733442355
+ },
+ {
+  "Year and dataset code row": 2014,
+  "Month": "June",
+  "Current price indices: Solid fuels": 112.25879682179342,
+  "Current price indices: Gas ": 137.9947229551451,
+  "Current price indices: Electricity ": 128.29705505761845,
+  "Current price indices: Liquid fuels": 117.49795584627964
+ },
+ {
+  "Year and dataset code row": 2014,
+  "Month": "July",
+  "Current price indices: Solid fuels": 112.14528944381385,
+  "Current price indices: Gas ": 137.9947229551451,
+  "Current price indices: Electricity ": 128.29705505761845,
+  "Current price indices: Liquid fuels": 116.43499591169257
+ },
+ {
+  "Year and dataset code row": 2014,
+  "Month": "August",
+  "Current price indices: Solid fuels": 111.91827468785472,
+  "Current price indices: Gas ": 137.9947229551451,
+  "Current price indices: Electricity ": 128.29705505761845,
+  "Current price indices: Liquid fuels": 116.68029435813571
+ },
+ {
+  "Year and dataset code row": 2014,
+  "Month": "September",
+  "Current price indices: Solid fuels": 112.48581157775254,
+  "Current price indices: Gas ": 137.9947229551451,
+  "Current price indices: Electricity ": 128.29705505761845,
+  "Current price indices: Liquid fuels": 114.96320523303352
+ },
+ {
+  "Year and dataset code row": 2014,
+  "Month": "October",
+  "Current price indices: Solid fuels": 114.64245175936436,
+  "Current price indices: Gas ": 137.9947229551451,
+  "Current price indices: Electricity ": 128.29705505761845,
+  "Current price indices: Liquid fuels": 109.48487326246934
+ },
+ {
+  "Year and dataset code row": 2014,
+  "Month": "November",
+  "Current price indices: Solid fuels": 114.75595913734394,
+  "Current price indices: Gas ": 137.9947229551451,
+  "Current price indices: Electricity ": 128.29705505761845,
+  "Current price indices: Liquid fuels": 108.0948487326247
+ },
+ {
+  "Year and dataset code row": 2014,
+  "Month": "December",
+  "Current price indices: Solid fuels": 114.75595913734394,
+  "Current price indices: Gas ": 137.9947229551451,
+  "Current price indices: Electricity ": 128.29705505761845,
+  "Current price indices: Liquid fuels": 99.34587080948486
+ },
+ {
+  "Year and dataset code row": 2015,
+  "Month": "January",
+  "Current price indices: Solid fuels": 114.64245175936436,
+  "Current price indices: Gas ": 137.33509234828495,
+  "Current price indices: Electricity ": 128.29705505761845,
+  "Current price indices: Liquid fuels": 86.67211774325429
+ },
+ {
+  "Year and dataset code row": 2015,
+  "Month": "February",
+  "Current price indices: Solid fuels": 114.64245175936436,
+  "Current price indices: Gas ": 136.41160949868075,
+  "Current price indices: Electricity ": 128.29705505761845,
+  "Current price indices: Liquid fuels": 91.00572363041701
+ },
+ {
+  "Year and dataset code row": 2015,
+  "Month": "March",
+  "Current price indices: Solid fuels": 114.75595913734394,
+  "Current price indices: Gas ": 132.8496042216359,
+  "Current price indices: Electricity ": 128.29705505761845,
+  "Current price indices: Liquid fuels": 88.30744071954211
+ },
+ {
+  "Year and dataset code row": 2015,
+  "Month": "April",
+  "Current price indices: Solid fuels": 114.86946651532351,
+  "Current price indices: Gas ": 132.71767810026384,
+  "Current price indices: Electricity ": 128.04097311139566,
+  "Current price indices: Liquid fuels": 88.47097301717089
+ },
+ {
+  "Year and dataset code row": 2015,
+  "Month": "May",
+  "Current price indices: Solid fuels": 112.48581157775254,
+  "Current price indices: Gas ": 131.92612137203164,
+  "Current price indices: Electricity ": 128.04097311139566,
+  "Current price indices: Liquid fuels": 89.77923139820115
+ },
+ {
+  "Year and dataset code row": 2015,
+  "Month": "June",
+  "Current price indices: Solid fuels": 112.14528944381385,
+  "Current price indices: Gas ": 131.92612137203164,
+  "Current price indices: Electricity ": 127.91293213828428,
+  "Current price indices: Liquid fuels": 87.4080130825838
+ },
+ {
+  "Year and dataset code row": 2015,
+  "Month": "July",
+  "Current price indices: Solid fuels": 112.03178206583428,
+  "Current price indices: Gas ": 131.92612137203164,
+  "Current price indices: Electricity ": 127.91293213828428,
+  "Current price indices: Liquid fuels": 83.72853638593622
+ },
+ {
+  "Year and dataset code row": 2015,
+  "Month": "August",
+  "Current price indices: Solid fuels": 112.03178206583428,
+  "Current price indices: Gas ": 131.92612137203164,
+  "Current price indices: Electricity ": 127.91293213828428,
+  "Current price indices: Liquid fuels": 74.40719542109568
+ },
+ {
+  "Year and dataset code row": 2015,
+  "Month": "September",
+  "Current price indices: Solid fuels": 112.372304199773,
+  "Current price indices: Gas ": 129.023746701847,
+  "Current price indices: Electricity ": 127.91293213828428,
+  "Current price indices: Liquid fuels": 75.55192150449714
+ },
+ {
+  "Year and dataset code row": 2015,
+  "Month": "October",
+  "Current price indices: Solid fuels": 113.84790011350738,
+  "Current price indices: Gas ": 129.023746701847,
+  "Current price indices: Electricity ": 127.91293213828428,
+  "Current price indices: Liquid fuels": 75.63368765331153
+ },
+ {
+  "Year and dataset code row": 2015,
+  "Month": "November",
+  "Current price indices: Solid fuels": 114.07491486946653,
+  "Current price indices: Gas ": 129.023746701847,
+  "Current price indices: Electricity ": 127.91293213828428,
+  "Current price indices: Liquid fuels": 73.01717089125103
+ },
+ {
+  "Year and dataset code row": 2015,
+  "Month": "December",
+  "Current price indices: Solid fuels": 114.07491486946653,
+  "Current price indices: Gas ": 129.023746701847,
+  "Current price indices: Electricity ": 127.91293213828428,
+  "Current price indices: Liquid fuels": 67.29354047424366
+ },
+ {
+  "Year and dataset code row": 2016,
+  "Month": "January",
+  "Current price indices: Solid fuels": 114.07491486946653,
+  "Current price indices: Gas ": 129.023746701847,
+  "Current price indices: Electricity ": 127.91293213828428,
+  "Current price indices: Liquid fuels": 61.242845461978746
+ },
+ {
+  "Year and dataset code row": 2016,
+  "Month": "February",
+  "Current price indices: Solid fuels": 114.18842224744607,
+  "Current price indices: Gas ": 128.10026385224273,
+  "Current price indices: Electricity ": 127.91293213828428,
+  "Current price indices: Liquid fuels": 58.62632869991824
+ },
+ {
+  "Year and dataset code row": 2016,
+  "Month": "March",
+  "Current price indices: Solid fuels": 113.96140749148695,
+  "Current price indices: Gas ": 124.80211081794195,
+  "Current price indices: Electricity ": 127.91293213828428,
+  "Current price indices: Liquid fuels": 63.205233033524124
+ },
+ {
+  "Year and dataset code row": 2016,
+  "Month": "April",
+  "Current price indices: Solid fuels": 114.18842224744607,
+  "Current price indices: Gas ": 123.08707124010554,
+  "Current price indices: Electricity ": 127.65685019206148,
+  "Current price indices: Liquid fuels": 64.67702371218316
+ },
+ {
+  "Year and dataset code row": 2016,
+  "Month": "May",
+  "Current price indices: Solid fuels": 112.82633371169129,
+  "Current price indices: Gas ": 123.08707124010554,
+  "Current price indices: Electricity ": 127.65685019206148,
+  "Current price indices: Liquid fuels": 68.68356500408831
+ },
+ {
+  "Year and dataset code row": 2016,
+  "Month": "June",
+  "Current price indices: Solid fuels": 111.91827468785472,
+  "Current price indices: Gas ": 123.08707124010554,
+  "Current price indices: Electricity ": 127.65685019206148,
+  "Current price indices: Liquid fuels": 74.24366312346689
+ },
+ {
+  "Year and dataset code row": 2016,
+  "Month": "July",
+  "Current price indices: Solid fuels": 111.01021566401816,
+  "Current price indices: Gas ": 123.08707124010554,
+  "Current price indices: Electricity ": 127.65685019206148,
+  "Current price indices: Liquid fuels": 74.40719542109568
+ },
+ {
+  "Year and dataset code row": 2016,
+  "Month": "August",
+  "Current price indices: Solid fuels": 111.12372304199774,
+  "Current price indices: Gas ": 123.08707124010554,
+  "Current price indices: Electricity ": 127.65685019206148,
+  "Current price indices: Liquid fuels": 72.93540474243663
+ },
+ {
+  "Year and dataset code row": 2016,
+  "Month": "September",
+  "Current price indices: Solid fuels": 112.03178206583428,
+  "Current price indices: Gas ": 123.08707124010554,
+  "Current price indices: Electricity ": 127.65685019206148,
+  "Current price indices: Liquid fuels": 76.20605069501227
+ },
+ {
+  "Year and dataset code row": 2016,
+  "Month": "October",
+  "Current price indices: Solid fuels": 113.96140749148695,
+  "Current price indices: Gas ": 123.08707124010554,
+  "Current price indices: Electricity ": 127.65685019206148,
+  "Current price indices: Liquid fuels": 86.91741618969746
+ },
+ {
+  "Year and dataset code row": 2016,
+  "Month": "November",
+  "Current price indices: Solid fuels": 114.75595913734394,
+  "Current price indices: Gas ": 123.08707124010554,
+  "Current price indices: Electricity ": 127.65685019206148,
+  "Current price indices: Liquid fuels": 83.40147179067866
+ },
+ {
+  "Year and dataset code row": 2016,
+  "Month": "December",
+  "Current price indices: Solid fuels": 115.43700340522136,
+  "Current price indices: Gas ": 123.08707124010554,
+  "Current price indices: Electricity ": 127.65685019206148,
+  "Current price indices: Liquid fuels": 90.59689288634505
+ },
+ {
+  "Year and dataset code row": 2017,
+  "Month": "January",
+  "Current price indices: Solid fuels": 115.66401816118048,
+  "Current price indices: Gas ": 122.55936675461743,
+  "Current price indices: Electricity ": 127.65685019206148,
+  "Current price indices: Liquid fuels": 95.99345870809486
+ },
+ {
+  "Year and dataset code row": 2017,
+  "Month": "February",
+  "Current price indices: Solid fuels": 116.23155505107835,
+  "Current price indices: Gas ": 122.55936675461743,
+  "Current price indices: Electricity ": 127.65685019206148,
+  "Current price indices: Liquid fuels": 94.52166802943582
+ },
+ {
+  "Year and dataset code row": 2017,
+  "Month": "March",
+  "Current price indices: Solid fuels": 116.23155505107835,
+  "Current price indices: Gas ": 122.55936675461743,
+  "Current price indices: Electricity ": 128.93725992317545,
+  "Current price indices: Liquid fuels": 89.77923139820115
+ },
+ {
+  "Year and dataset code row": 2017,
+  "Month": "April",
+  "Current price indices: Solid fuels": 116.34506242905789,
+  "Current price indices: Gas ": 121.89973614775727,
+  "Current price indices: Electricity ": 132.13828425096034,
+  "Current price indices: Liquid fuels": 89.94276369582992
+ },
+ {
+  "Year and dataset code row": 2017,
+  "Month": "May",
+  "Current price indices: Solid fuels": 114.75595913734394,
+  "Current price indices: Gas ": 122.42744063324538,
+  "Current price indices: Electricity ": 137.51600512163895,
+  "Current price indices: Liquid fuels": 83.72853638593622
+ },
+ {
+  "Year and dataset code row": 2017,
+  "Month": "June",
+  "Current price indices: Solid fuels": 114.52894438138482,
+  "Current price indices: Gas ": 122.42744063324538,
+  "Current price indices: Electricity ": 137.51600512163895,
+  "Current price indices: Liquid fuels": 82.17497955846281
+ },
+ {
+  "Year and dataset code row": 2017,
+  "Month": "July",
+  "Current price indices: Solid fuels": 114.41543700340522,
+  "Current price indices: Gas ": 123.08707124010554,
+  "Current price indices: Electricity ": 139.18053777208706,
+  "Current price indices: Liquid fuels": 81.52085036794767
+ },
+ {
+  "Year and dataset code row": 2017,
+  "Month": "August",
+  "Current price indices: Solid fuels": 114.41543700340522,
+  "Current price indices: Gas ": 123.08707124010554,
+  "Current price indices: Electricity ": 139.18053777208706,
+  "Current price indices: Liquid fuels": 85.28209321340965
+ },
+ {
+  "Year and dataset code row": 2017,
+  "Month": "September",
+  "Current price indices: Solid fuels": 114.41543700340522,
+  "Current price indices: Gas ": 123.08707124010554,
+  "Current price indices: Electricity ": 139.18053777208706,
+  "Current price indices: Liquid fuels": 88.79803761242844
+ },
+ {
+  "Year and dataset code row": 2017,
+  "Month": "October",
+  "Current price indices: Solid fuels": 116.79909194097617,
+  "Current price indices: Gas ": 123.08707124010554,
+  "Current price indices: Electricity ": 142.25352112676057,
+  "Current price indices: Liquid fuels": 89.69746524938675
+ },
+ {
+  "Year and dataset code row": 2017,
+  "Month": "November",
+  "Current price indices: Solid fuels": 118.04767309875142,
+  "Current price indices: Gas ": 123.21899736147759,
+  "Current price indices: Electricity ": 142.25352112676057,
+  "Current price indices: Liquid fuels": 97.95584627964023
+ },
+ {
+  "Year and dataset code row": 2017,
+  "Month": "December",
+  "Current price indices: Solid fuels": 118.38819523269012,
+  "Current price indices: Gas ": 123.21899736147759,
+  "Current price indices: Electricity ": 142.25352112676057,
+  "Current price indices: Liquid fuels": 105.56009811937857
+ },
+ {
+  "Year and dataset code row": 2018,
+  "Month": "January",
+  "Current price indices: Solid fuels": 118.61520998864927,
+  "Current price indices: Gas ": 123.35092348284962,
+  "Current price indices: Electricity ": 142.25352112676057,
+  "Current price indices: Liquid fuels": 106.86835650040882
+ },
+ {
+  "Year and dataset code row": 2018,
+  "Month": "February",
+  "Current price indices: Solid fuels": 118.61520998864927,
+  "Current price indices: Gas ": 123.35092348284962,
+  "Current price indices: Electricity ": 142.25352112676057,
+  "Current price indices: Liquid fuels": 105.06950122649224
+ },
+ {
+  "Year and dataset code row": 2018,
+  "Month": "March",
+  "Current price indices: Solid fuels": 118.95573212258796,
+  "Current price indices: Gas ": 123.35092348284962,
+  "Current price indices: Electricity ": 142.25352112676057,
+  "Current price indices: Liquid fuels": 110.46606704824202
+ },
+ {
+  "Year and dataset code row": 2018,
+  "Month": "April",
+  "Current price indices: Solid fuels": 118.84222474460842,
+  "Current price indices: Gas ": 123.7467018469657,
+  "Current price indices: Electricity ": 143.5339308578745,
+  "Current price indices: Liquid fuels": 110.87489779231399
+ },
+ {
+  "Year and dataset code row": 2018,
+  "Month": "May",
+  "Current price indices: Solid fuels": 115.5505107832009,
+  "Current price indices: Gas ": 123.87862796833775,
+  "Current price indices: Electricity ": 143.66197183098592,
+  "Current price indices: Liquid fuels": 114.79967293540474
+ },
+ {
+  "Year and dataset code row": 2018,
+  "Month": "June",
+  "Current price indices: Solid fuels": 115.32349602724177,
+  "Current price indices: Gas ": 126.91292875989446,
+  "Current price indices: Electricity ": 146.86299615877084,
+  "Current price indices: Liquid fuels": 113.73671300081767
+ },
+ {
+  "Year and dataset code row": 2018,
+  "Month": "July",
+  "Current price indices: Solid fuels": 116.0045402951192,
+  "Current price indices: Gas ": 128.36411609498683,
+  "Current price indices: Electricity ": 149.42381562099874,
+  "Current price indices: Liquid fuels": 110.79313164349959
+ },
+ {
+  "Year and dataset code row": 2018,
+  "Month": "August",
+  "Current price indices: Solid fuels": 116.23155505107835,
+  "Current price indices: Gas ": 128.36411609498683,
+  "Current price indices: Electricity ": 149.42381562099874,
+  "Current price indices: Liquid fuels": 112.18315617334423
+ },
+ {
+  "Year and dataset code row": 2018,
+  "Month": "September",
+  "Current price indices: Solid fuels": 115.77752553916005,
+  "Current price indices: Gas ": 129.81530343007915,
+  "Current price indices: Electricity ": 152.11267605633802,
+  "Current price indices: Liquid fuels": 117.66148814390843
+ },
+ {
+  "Year and dataset code row": 2018,
+  "Month": "October",
+  "Current price indices: Solid fuels": 119.9772985244041,
+  "Current price indices: Gas ": 132.4538258575198,
+  "Current price indices: Electricity ": 155.18565941101156,
+  "Current price indices: Liquid fuels": 126.16516762060508
+ },
+ {
+  "Year and dataset code row": 2018,
+  "Month": "November",
+  "Current price indices: Solid fuels": 119.06923950056756,
+  "Current price indices: Gas ": 132.4538258575198,
+  "Current price indices: Electricity ": 155.18565941101156,
+  "Current price indices: Liquid fuels": 119.13327882256746
+ },
+ {
+  "Year and dataset code row": 2018,
+  "Month": "December",
+  "Current price indices: Solid fuels": 121.45289443813849,
+  "Current price indices: Gas ": 132.4538258575198,
+  "Current price indices: Electricity ": 155.18565941101156,
+  "Current price indices: Liquid fuels": 111.6107931316435
+ },
+ {
+  "Year and dataset code row": 2019,
+  "Month": "January",
+  "Current price indices: Solid fuels": 121.45289443813849,
+  "Current price indices: Gas ": 121.2401055408971,
+  "Current price indices: Electricity ": 147.6312419974392,
+  "Current price indices: Liquid fuels": 107.68601798855273
+ },
+ {
+  "Year and dataset code row": 2019,
+  "Month": "February",
+  "Current price indices: Solid fuels": 121.56640181611805,
+  "Current price indices: Gas ": 121.37203166226914,
+  "Current price indices: Electricity ": 147.7592829705506,
+  "Current price indices: Liquid fuels": 110.13900245298444
+ },
+ {
+  "Year and dataset code row": 2019,
+  "Month": "March",
+  "Current price indices: Solid fuels": 121.90692395005678,
+  "Current price indices: Gas ": 121.37203166226914,
+  "Current price indices: Electricity ": 147.7592829705506,
+  "Current price indices: Liquid fuels": 110.87489779231399
+ },
+ {
+  "Year and dataset code row": 2019,
+  "Month": "April",
+  "Current price indices: Solid fuels": 119.86379114642452,
+  "Current price indices: Gas ": 132.5857519788918,
+  "Current price indices: Electricity ": 163.76440460947506,
+  "Current price indices: Liquid fuels": 111.36549468520032
+ },
+ {
+  "Year and dataset code row": 2019,
+  "Month": "May",
+  "Current price indices: Solid fuels": 120.88535754824063,
+  "Current price indices: Gas ": 132.5857519788918,
+  "Current price indices: Electricity ": 163.76440460947506,
+  "Current price indices: Liquid fuels": 113.16434995911693
+ },
+ {
+  "Year and dataset code row": 2019,
+  "Month": "June",
+  "Current price indices: Solid fuels": 121.56640181611805,
+  "Current price indices: Gas ": 132.5857519788918,
+  "Current price indices: Electricity ": 163.76440460947506,
+  "Current price indices: Liquid fuels": 108.66721177432544
+ },
+ {
+  "Year and dataset code row": 2019,
+  "Month": "July",
+  "Current price indices: Solid fuels": 121.33938706015893,
+  "Current price indices: Gas ": 132.5857519788918,
+  "Current price indices: Electricity ": 163.76440460947506,
+  "Current price indices: Liquid fuels": 108.0130825838103
+ },
+ {
+  "Year and dataset code row": 2019,
+  "Month": "August",
+  "Current price indices: Solid fuels": 120.54483541430194,
+  "Current price indices: Gas ": 132.5857519788918,
+  "Current price indices: Electricity ": 163.76440460947506,
+  "Current price indices: Liquid fuels": 109.73017170891251
+ },
+ {
+  "Year and dataset code row": 2019,
+  "Month": "September",
+  "Current price indices: Solid fuels": 120.99886492622021,
+  "Current price indices: Gas ": 132.5857519788918,
+  "Current price indices: Electricity ": 163.76440460947506,
+  "Current price indices: Liquid fuels": 109.81193785772692
+ },
+ {
+  "Year and dataset code row": 2019,
+  "Month": "October",
+  "Current price indices: Solid fuels": 122.81498297389331,
+  "Current price indices: Gas ": 120.97625329815304,
+  "Current price indices: Electricity ": 160.30729833546738,
+  "Current price indices: Liquid fuels": 113.81847914963204
+ },
+ {
+  "Year and dataset code row": 2019,
+  "Month": "November",
+  "Current price indices: Solid fuels": 125.7661748013621,
+  "Current price indices: Gas ": 120.97625329815304,
+  "Current price indices: Electricity ": 160.30729833546738,
+  "Current price indices: Liquid fuels": 110.30253475061325
+ },
+ {
+  "Year and dataset code row": 2019,
+  "Month": "December",
+  "Current price indices: Solid fuels": 126.44721906923952,
+  "Current price indices: Gas ": 120.97625329815304,
+  "Current price indices: Electricity ": 160.30729833546738,
+  "Current price indices: Liquid fuels": 110.38430089942763
+ },
+ {
+  "Year and dataset code row": 2020,
+  "Month": "January",
+  "Current price indices: Solid fuels": 125.31214528944383,
+  "Current price indices: Gas ": 120.97625329815304,
+  "Current price indices: Electricity ": 160.30729833546738,
+  "Current price indices: Liquid fuels": 114.14554374488961
+ },
+ {
+  "Year and dataset code row": 2020,
+  "Month": "February",
+  "Current price indices: Solid fuels": 126.67423382519864,
+  "Current price indices: Gas ": 120.97625329815304,
+  "Current price indices: Electricity ": 160.30729833546738,
+  "Current price indices: Liquid fuels": 101.47179067865903
+ },
+ {
+  "Year and dataset code row": 2020,
+  "Month": "March",
+  "Current price indices: Solid fuels": 126.67423382519864,
+  "Current price indices: Gas ": 120.97625329815304,
+  "Current price indices: Electricity ": 160.30729833546738,
+  "Current price indices: Liquid fuels": 83.40147179067866
+ },
+ {
+  "Year and dataset code row": 2020,
+  "Month": "April",
+  "Current price indices: Solid fuels": 126.56072644721907,
+  "Current price indices: Gas ": 116.62269129287598,
+  "Current price indices: Electricity ": 160.56338028169014,
+  "Current price indices: Liquid fuels": 64.84055600981193
+ },
+ {
+  "Year and dataset code row": 2020,
+  "Month": "May",
+  "Current price indices: Solid fuels": 126.56072644721907,
+  "Current price indices: Gas ": 116.75461741424802,
+  "Current price indices: Electricity ": 160.56338028169014,
+  "Current price indices: Liquid fuels": 60.670482420278006
+ },
+ {
+  "Year and dataset code row": 2020,
+  "Month": "June",
+  "Current price indices: Solid fuels": 126.44721906923952,
+  "Current price indices: Gas ": 116.75461741424802,
+  "Current price indices: Electricity ": 160.56338028169014,
+  "Current price indices: Liquid fuels": 70.89125102207686
+ },
+ {
+  "Year and dataset code row": 2020,
+  "Month": "July",
+  "Current price indices: Solid fuels": 126.90124858115779,
+  "Current price indices: Gas ": 116.62269129287598,
+  "Current price indices: Electricity ": 160.43533930857876,
+  "Current price indices: Liquid fuels": 71.4636140637776
+ },
+ {
+  "Year and dataset code row": 2020,
+  "Month": "August",
+  "Current price indices: Solid fuels": 125.87968217934167,
+  "Current price indices: Gas ": 116.62269129287598,
+  "Current price indices: Electricity ": 160.43533930857876,
+  "Current price indices: Liquid fuels": 71.30008176614882
+ },
+ {
+  "Year and dataset code row": 2020,
+  "Month": "September",
+  "Current price indices: Solid fuels": 127.01475595913736,
+  "Current price indices: Gas ": 116.62269129287598,
+  "Current price indices: Electricity ": 160.43533930857876,
+  "Current price indices: Liquid fuels": 68.27473426001636
+ },
+ {
+  "Year and dataset code row": 2020,
+  "Month": "October",
+  "Current price indices: Solid fuels": 128.83087400681046,
+  "Current price indices: Gas ": 102.37467018469657,
+  "Current price indices: Electricity ": 155.18565941101156,
+  "Current price indices: Liquid fuels": 71.30008176614882
+ },
+ {
+  "Year and dataset code row": 2020,
+  "Month": "November",
+  "Current price indices: Solid fuels": 130.64699205448355,
+  "Current price indices: Gas ": 102.37467018469657,
+  "Current price indices: Electricity ": 155.18565941101156,
+  "Current price indices: Liquid fuels": 67.45707277187245
+ },
+ {
+  "Year and dataset code row": 2020,
+  "Month": "December",
+  "Current price indices: Solid fuels": 130.19296254256528,
+  "Current price indices: Gas ": 102.37467018469657,
+  "Current price indices: Electricity ": 155.18565941101156,
+  "Current price indices: Liquid fuels": 79.64022894521669
+ },
+ {
+  "Year and dataset code row": 2021,
+  "Month": "January",
+  "Current price indices: Solid fuels": 130.30646992054486,
+  "Current price indices: Gas ": 102.37467018469657,
+  "Current price indices: Electricity ": 155.18565941101156,
+  "Current price indices: Liquid fuels": 85.6909239574816
+ },
+ {
+  "Year and dataset code row": 2021,
+  "Month": "February",
+  "Current price indices: Solid fuels": 130.0794551645857,
+  "Current price indices: Gas ": 102.37467018469657,
+  "Current price indices: Electricity ": 155.18565941101156,
+  "Current price indices: Liquid fuels": 92.15044971381849
+ },
+ {
+  "Year and dataset code row": 2021,
+  "Month": "March",
+  "Current price indices: Solid fuels": 130.30646992054486,
+  "Current price indices: Gas ": 102.37467018469657,
+  "Current price indices: Electricity ": 155.18565941101156,
+  "Current price indices: Liquid fuels": 94.76696647587899
+ },
+ {
+  "Year and dataset code row": 2021,
+  "Month": "April",
+  "Current price indices: Solid fuels": 130.4199772985244,
+  "Current price indices: Gas ": 112.0052770448549,
+  "Current price indices: Electricity ": 169.39820742637644,
+  "Current price indices: Liquid fuels": 90.59689288634505
+ },
+ {
+  "Year and dataset code row": 2021,
+  "Month": "May",
+  "Current price indices: Solid fuels": 130.30646992054486,
+  "Current price indices: Gas ": 112.0052770448549,
+  "Current price indices: Electricity ": 169.39820742637644,
+  "Current price indices: Liquid fuels": 94.84873262469338
+ },
+ {
+  "Year and dataset code row": 2021,
+  "Month": "June",
+  "Current price indices: Solid fuels": 130.64699205448355,
+  "Current price indices: Gas ": 112.0052770448549,
+  "Current price indices: Electricity ": 169.39820742637644,
+  "Current price indices: Liquid fuels": 97.79231398201145
+ },
+ {
+  "Year and dataset code row": 2021,
+  "Month": "July",
+  "Current price indices: Solid fuels": 130.64699205448355,
+  "Current price indices: Gas ": 112.0052770448549,
+  "Current price indices: Electricity ": 169.65428937259927,
+  "Current price indices: Liquid fuels": 98.2829108748978
+ },
+ {
+  "Year and dataset code row": 2021,
+  "Month": "August",
+  "Current price indices: Solid fuels": 130.53348467650397,
+  "Current price indices: Gas ": 112.0052770448549,
+  "Current price indices: Electricity ": 169.65428937259927,
+  "Current price indices: Liquid fuels": 97.05641864268193
+ },
+ {
+  "Year and dataset code row": 2021,
+  "Month": "September",
+  "Current price indices: Solid fuels": 131.21452894438139,
+  "Current price indices: Gas ": 112.0052770448549,
+  "Current price indices: Electricity ": 169.65428937259927,
+  "Current price indices: Liquid fuels": 101.47179067865903
+ },
+ {
+  "Year and dataset code row": 2021,
+  "Month": "October",
+  "Current price indices: Solid fuels": 132.5766174801362,
+  "Current price indices: Gas ": 131.13456464379948,
+  "Current price indices: Electricity ": 184.37900128040974,
+  "Current price indices: Liquid fuels": 120.5233033524121
+ },
+ {
+  "Year and dataset code row": 2021,
+  "Month": "November",
+  "Current price indices: Solid fuels": 133.14415437003407,
+  "Current price indices: Gas ": 131.13456464379948,
+  "Current price indices: Electricity ": 184.37900128040974,
+  "Current price indices: Liquid fuels": 125.0204415372036
+ },
+ {
+  "Year and dataset code row": 2021,
+  "Month": "December",
+  "Current price indices: Solid fuels": 136.77639046538025,
+  "Current price indices: Gas ": 131.13456464379948,
+  "Current price indices: Electricity ": 184.37900128040974,
+  "Current price indices: Liquid fuels": 121.17743254292724
+ },
+ {
+  "Year and dataset code row": 2022,
+  "Month": "January",
+  "Current price indices: Solid fuels": 137.45743473325766,
+  "Current price indices: Gas ": 131.2664907651715,
+  "Current price indices: Electricity ": 185.0192061459667,
+  "Current price indices: Liquid fuels": 125.91986917416189
+ },
+ {
+  "Year and dataset code row": 2022,
+  "Month": "February",
+  "Current price indices: Solid fuels": 139.95459704880818,
+  "Current price indices: Gas ": 131.2664907651715,
+  "Current price indices: Electricity ": 185.0192061459667,
+  "Current price indices: Liquid fuels": 140.80130825838103
+ },
+ {
+  "Year and dataset code row": 2022,
+  "Month": "March",
+  "Current price indices: Solid fuels": 144.9489216799092,
+  "Current price indices: Gas ": 131.2664907651715,
+  "Current price indices: Electricity ": 185.0192061459667,
+  "Current price indices: Liquid fuels": 202.7800490596893
+ },
+ {
+  "Year and dataset code row": 2022,
+  "Month": "April",
+  "Current price indices: Solid fuels": 147.7866061293984,
+  "Current price indices: Gas ": 218.86543535620055,
+  "Current price indices: Electricity ": 260.17925736235594,
+  "Current price indices: Liquid fuels": 193.7857726901063
+ },
+ {
+  "Year and dataset code row": 2022,
+  "Month": "May",
+  "Current price indices: Solid fuels": 151.9863791146425,
+  "Current price indices: Gas ": 218.86543535620055,
+  "Current price indices: Electricity ": 260.17925736235594,
+  "Current price indices: Liquid fuels": 211.12019623875713
+ },
+ {
+  "Year and dataset code row": 2022,
+  "Month": "June",
+  "Current price indices: Solid fuels": 159.8183881952327,
+  "Current price indices: Gas ": 218.86543535620055,
+  "Current price indices: Electricity ": 260.17925736235594,
+  "Current price indices: Liquid fuels": 223.79394930498773
+ },
+ {
+  "Year and dataset code row": 2022,
+  "Month": "July",
+  "Current price indices: Solid fuels": 165.83427922814985,
+  "Current price indices: Gas ": 219.12928759894461,
+  "Current price indices: Electricity ": 261.3316261203585,
+  "Current price indices: Liquid fuels": 210.38430089942764
+ },
+ {
+  "Year and dataset code row": 2022,
+  "Month": "August",
+  "Current price indices: Solid fuels": 169.46651532349605,
+  "Current price indices: Gas ": 219.12928759894461,
+  "Current price indices: Electricity ": 261.3316261203585,
+  "Current price indices: Liquid fuels": 180.78495502861816
+ }
+]

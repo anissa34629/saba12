@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Saba Iftakhar - Academic History</title>
+    <link rel="stylesheet" href="css/forcaster.css">
+</head>
+<body>
+    <header>
+        <img src="images/logo.png" alt="Your Logo" class="logo">
+        <div class="header-content"></div>
+        <div class="container">
+            <h1>Saba Iftakhar</h1>
+            <p>Email: sabahussain5464@gmail.com</p>
+        </div>
+    </header>
+    <nav>
+        <div class="nav-container">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="academic.html">Academic History</a></li>
+                <li><a href="professional.html">Professional History</a></li>
+                <li><a href="testimonials.html">Testimonials</a></li>
+                <li><a href="skill.html">Skills</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+    <div class="fc-container">
+        <h1>Heating Fuel Cost Forecaster</h1>
+        <div class="container">
+            <div>
+                <select id="modeSelect">
+                    <option value="historical">Historical</option>
+                    <option value="forecaster">Forecaster</option>
+                </select>
+                <input type="date" id="selectedDate" min="1996-01-01" max="2022-08-31">
+                <button id="toggleModeBtn">Toggle Mode</button>
+                <p id="errorMessage" style="color: red;"></p>
+                <div>
+                    <button id="backMonthBtn">Back Month</button>
+<button id="forwardMonthBtn">Forward Month</button>
+<button id="backYearBtn">Back Year</button>
+<button id="forwardYearBtn">Forward Year</button>
+
+                </div>
+            </div>
+        </div>
+    
+        <canvas id="fuelChart" width="800" height="400"></canvas>
+        <div class='container'>
+            <button id="prevBtn" onclick="handleButtonClick('prev')">Previous</button>
+            <button id="nextBtn" onclick="handleButtonClick('next')">Next</button>
+        </div>
+        <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+        <script src="js/forecast.js"></script>
+        <footer>
+            <div class="footer-container">
+                <p>Created by Saba Iftakhar | All Rights Reserved.</p>
+            </div>
+        </footer>
+    </body>
+</html>
